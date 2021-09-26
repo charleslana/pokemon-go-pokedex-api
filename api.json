@@ -2,7 +2,7 @@
     "pokemon": [
         {
             "id": 1,
-            "num": "01",
+            "num": "001",
             "name": "Bulbasaur",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png",
             "type": {
@@ -86,7 +86,7 @@
         },
         {
             "id": 2,
-            "num": "02",
+            "num": "002",
             "name": "Ivysaur",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png",
             "type": {
@@ -171,7 +171,7 @@
         },
         {
             "id": 3,
-            "num": "03",
+            "num": "003",
             "name": "Venusaur",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png",
             "type": {
@@ -257,7 +257,7 @@
         },
         {
             "id": 4,
-            "num": "04",
+            "num": "004",
             "name": "Charmander",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png",
             "type": {
@@ -339,7 +339,7 @@
         },
         {
             "id": 5,
-            "num": "05",
+            "num": "005",
             "name": "Charmeleon",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png",
             "type": {
@@ -422,7 +422,7 @@
         },
         {
             "id": 6,
-            "num": "06",
+            "num": "006",
             "name": "Charizard",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png",
             "type": {
