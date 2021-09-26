@@ -1,0 +1,4692 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "num": "001",
+            "name": "Bulbasaur",
+            "img": "https://url.com/1.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 118,
+            "sta": 128,
+            "def": 111,
+            "generation": 1,
+            "description": {
+                "en": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+                "pt_br": "Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente nas costas. Ao absorver os raios do sol, a semente cresce progressivamente maior."
+            },
+            "weight": 6.9,
+            "height": 0.7,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 2,
+                    "num": "002",
+                    "name": "Ivysaur",
+                    "img": "https://url.com/2.png"
+                },
+                {
+                    "id": 3,
+                    "num": "003",
+                    "name": "Venusaur",
+                    "img": "https://url.com/3.png"
+                }
+            ],
+            "max_cp": 1260,
+            "resistant": {
+                "en": [
+                    "Electric",
+                    "Fairy",
+                    "Fighting",
+                    "Grass",
+                    "Psychic",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Fada",
+                    "Lutador",
+                    "Planta",
+                    "Psíquico",
+                    "Água"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fire",
+                    "Flying",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Voador",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Vine Whip",
+                    "Power Whip",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Chicote de Videira",
+                    "Chicote de Poder",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "num": "002",
+            "name": "Ivysaur",
+            "img": "https://url.com/2.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 151,
+            "sta": 155,
+            "def": 143,
+            "generation": 1,
+            "description": {
+                "en": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+                "pt_br": "Há um botão nas costas deste Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se ele começar a ficar mais tempo deitado ao sol, é um sinal de que o botão florescerá em uma grande flor em breve."
+            },
+            "weight": 13.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 1,
+                    "num": "001",
+                    "name": "Bulbasaur",
+                    "img": "https://url.com/1.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 3,
+                    "num": "003",
+                    "name": "Venusaur",
+                    "img": "https://url.com/3.png"
+                }
+            ],
+            "max_cp": 1921,
+            "resistant": {
+                "en": [
+                    "Electric",
+                    "Fairy",
+                    "Fighting",
+                    "Grass",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Fada",
+                    "Lutador",
+                    "Planta",
+                    "Água"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fire",
+                    "Flying",
+                    "Ice",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Voador",
+                    "Gelo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Vine Whip",
+                    "Power Whip",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Chicote de Videira",
+                    "Chicote de Poder",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "num": "003",
+            "name": "Venusaur",
+            "img": "https://url.com/3.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 198,
+            "sta": 190,
+            "def": 189,
+            "generation": 1,
+            "description": {
+                "en": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+                "pt_br": "Há uma grande flor nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber bastante nutrição e luz solar. O aroma da flor acalma as emoções das pessoas."
+            },
+            "weight": 100.0,
+            "height": 2.0,
+            "pre_evolution": [
+                {
+                    "id": 1,
+                    "num": "001",
+                    "name": "Bulbasaur",
+                    "img": "https://url.com/1.png"
+                },
+                {
+                    "id": 2,
+                    "num": "002",
+                    "name": "Ivysaur",
+                    "img": "https://url.com/2.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3075,
+            "resistant": {
+                "en": [
+                    "Electric",
+                    "Fairy",
+                    "Fighting",
+                    "Grass",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Fada",
+                    "Lutador",
+                    "Planta",
+                    "Água"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fire",
+                    "Flying",
+                    "Ice",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Voador",
+                    "Gelo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Vine Whip",
+                    "Power Whip",
+                    "Razor Leaf",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Chicote de Videira",
+                    "Chicote de Poder",
+                    "Folha Navalha",
+                    "Feixe Solar"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "num": "004",
+            "name": "Charmander",
+            "img": "https://url.com/4.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 116,
+            "sta": 118,
+            "def": 93,
+            "generation": 1,
+            "description": {
+                "en": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+                "pt_br": "A chama que arde na ponta de sua cauda é uma indicação de suas emoções. A chama vacila quando Charmander está se divertindo. Se o Pokémon ficar furioso, a chama queima intensamente."
+            },
+            "weight": 8.5,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 5,
+                    "num": "005",
+                    "name": "Charmeleon",
+                    "img": "https://url.com/5.png"
+                },
+                {
+                    "id": 6,
+                    "num": "006",
+                    "name": "Charizard",
+                    "img": "https://url.com/6.png"
+                }
+            ],
+            "max_cp": 1108,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fairy",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fada",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Ember",
+                    "Flamethrower",
+                    "Flame Charge"
+                ],
+                "pt_br": [
+                    "Brasa",
+                    "Lança-chamas",
+                    "Carga de Fogo"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "num": "005",
+            "name": "Charmeleon",
+            "img": "https://url.com/5.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 158,
+            "sta": 151,
+            "def": 126,
+            "generation": 1,
+            "description": {
+                "en": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+                "pt_br": "Charmeleon destrói impiedosamente seus inimigos usando suas garras afiadas. Se encontrar um adversário forte, torna-se agressivo. Nesse estado de excitação, a chama na ponta de sua cauda brilha com uma cor branco-azulada."
+            },
+            "weight": 19.0,
+            "height": 1.1,
+            "pre_evolution": [
+                {
+                    "id": 4,
+                    "num": "004",
+                    "name": "Charmander",
+                    "img": "https://url.com/4.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 6,
+                    "num": "006",
+                    "name": "Charizard",
+                    "img": "https://url.com/6.png"
+                }
+            ],
+            "max_cp": 1868,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fairy",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fada",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Fang",
+                    "Flamethrower",
+                    "Fire Punch"
+                ],
+                "pt_br": [
+                    "Presa de Fogo",
+                    "Lança-chamas",
+                    "Soco de Fogo"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "num": "006",
+            "name": "Charizard",
+            "img": "https://url.com/6.png",
+            "type": {
+                "en": [
+                    "Fire",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Voador"
+                ]
+            },
+            "atk": 223,
+            "sta": 186,
+            "def": 173,
+            "generation": 1,
+            "description": {
+                "en": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+                "pt_br": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira fogo de um calor tão grande que derrete qualquer coisa. No entanto, ele nunca dirige seu sopro de fogo contra nenhum oponente mais fraco do que ele."
+            },
+            "weight": 90.5,
+            "height": 1.7,
+            "pre_evolution": [
+                {
+                    "id": 4,
+                    "num": "004",
+                    "name": "Charmander",
+                    "img": "https://url.com/4.png"
+                },
+                {
+                    "id": 5,
+                    "num": "005",
+                    "name": "Charmeleon",
+                    "img": "https://url.com/5.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3266,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Fighting",
+                    "Bug",
+                    "Fairy",
+                    "Fire",
+                    "Grass",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Lutador",
+                    "Inseto",
+                    "Fada",
+                    "Fogo",
+                    "Planta",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Water",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Spin",
+                    "Blast Burn"
+                ],
+                "pt_br": [
+                    "Rotação de Fogo",
+                    "Queimadura explosiva"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "num": "007",
+            "name": "Squirtle",
+            "img": "https://url.com/7.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 94,
+            "sta": 127,
+            "def": 121,
+            "generation": 1,
+            "description": {
+                "en": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+                "pt_br": "A concha de Squirtle não é usada apenas para proteção. A forma arredondada da concha e as ranhuras em sua superfície ajudam a minimizar a resistência na água, permitindo a este Pokémon nadar em alta velocidade."
+            },
+            "weight": 9.0,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 8,
+                    "num": "008",
+                    "name": "Wartortle",
+                    "img": "https://url.com/8.png"
+                },
+                {
+                    "id": 9,
+                    "num": "009",
+                    "name": "Blastoise",
+                    "img": "https://url.com/9.png"
+                }
+            ],
+            "max_cp": 1069,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Aqua Tail"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Cauda de Água"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "num": "008",
+            "name": "Wartortle",
+            "img": "https://url.com/8.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 126,
+            "sta": 153,
+            "def": 155,
+            "generation": 1,
+            "description": {
+                "en": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+                "pt_br": "Sua cauda é grande e coberta por um pêlo rico e espesso. A cauda torna-se cada vez mais colorida à medida que Wartortle envelhece. Os arranhões em sua casca são evidências da resistência desse Pokémon como lutador."
+            },
+            "weight": 22.5,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 7,
+                    "num": "007",
+                    "name": "Squirtle",
+                    "img": "https://url.com/7.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 9,
+                    "num": "009",
+                    "name": "Blastoise",
+                    "img": "https://url.com/9.png"
+                }
+            ],
+            "max_cp": 1682,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Hydro Pump",
+                    "Ice Beam"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Bomba de Hidro",
+                    "Feixe de Gelo"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "num": "009",
+            "name": "Blastoise",
+            "img": "https://url.com/9.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 171,
+            "sta": 188,
+            "def": 207,
+            "generation": 1,
+            "description": {
+                "en": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+                "pt_br": "Blastoise tem bicos de água que se projetam de sua concha. Os bicos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 50 metros."
+            },
+            "weight": 88.5,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 7,
+                    "num": "007",
+                    "name": "Squirtle",
+                    "img": "https://url.com/7.png"
+                },
+                {
+                    "id": 8,
+                    "num": "008",
+                    "name": "Wartortle",
+                    "img": "https://url.com/8.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2788,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Hydro Cannon"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Canhão de Hidro"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "num": "010",
+            "name": "Caterpie",
+            "img": "https://url.com/10.png",
+            "type": {
+                "en": [
+                    "Bug"
+                ],
+                "pt_br": [
+                    "Inseto"
+                ]
+            },
+            "atk": 55,
+            "sta": 128,
+            "def": 55,
+            "generation": 1,
+            "description": {
+                "en": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+                "pt_br": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo bem diante de seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte."
+            },
+            "weight": 2.9,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 11,
+                    "num": "011",
+                    "name": "Metapod",
+                    "img": "https://url.com/11.png"
+                },
+                {
+                    "id": 12,
+                    "num": "012",
+                    "name": "Butterfree",
+                    "img": "https://url.com/12.png"
+                }
+            ],
+            "max_cp": 494,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "num": "011",
+            "name": "Metapod",
+            "img": "https://url.com/11.png",
+            "type": {
+                "en": [
+                    "Bug"
+                ],
+                "pt_br": [
+                    "Inseto"
+                ]
+            },
+            "atk": 45,
+            "sta": 137,
+            "def": 80,
+            "generation": 1,
+            "description": {
+                "en": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+                "pt_br": "A casca que cobre o corpo deste Pokémon é tão dura quanto uma placa de ferro. O Metapod não se move muito. Ele fica parado porque está preparando suas vísceras moles para a evolução dentro da casca dura."
+            },
+            "weight": 9.9,
+            "height": 0.7,
+            "pre_evolution": [
+                {
+                    "id": 10,
+                    "num": "010",
+                    "name": "Caterpie",
+                    "img": "https://url.com/10.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 12,
+                    "num": "012",
+                    "name": "Butterfree",
+                    "img": "https://url.com/12.png"
+                }
+            ],
+            "max_cp": 509,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "num": "012",
+            "name": "Butterfree",
+            "img": "https://url.com/12.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Voador"
+                ]
+            },
+            "atk": 167,
+            "sta": 155,
+            "def": 137,
+            "generation": 1,
+            "description": {
+                "en": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+                "pt_br": "Butterfree tem uma capacidade superior de procurar o mel delicioso das flores. Ele pode até procurar, extrair e transportar mel de flores que estão florescendo a mais de dez quilômetros de seu ninho."
+            },
+            "weight": 32.0,
+            "height": 1.1,
+            "pre_evolution": [
+                {
+                    "id": 10,
+                    "num": "010",
+                    "name": "Caterpie",
+                    "img": "https://url.com/10.png"
+                },
+                {
+                    "id": 11,
+                    "num": "011",
+                    "name": "Metapod",
+                    "img": "https://url.com/11.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2065,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fighting",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Lutador",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Flying",
+                    "Fire",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Voador",
+                    "Fogo",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Bug Buzz",
+                    "Confusion"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Zumbido de Inseto",
+                    "Confusão"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "num": "013",
+            "name": "Weedle",
+            "img": "https://url.com/13.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Veneno"
+                ]
+            },
+            "atk": 63,
+            "sta": 120,
+            "def": 50,
+            "generation": 1,
+            "description": {
+                "en": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+                "pt_br": "Weedle tem um olfato extremamente aguçado. Ele é capaz de distinguir seus tipos favoritos de folhas daqueles de que não gosta apenas cheirando com sua grande tromba vermelha (nariz)."
+            },
+            "weight": 3.2,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 14,
+                    "num": "014",
+                    "name": "Kakuna",
+                    "img": "https://url.com/14.png"
+                },
+                {
+                    "id": 15,
+                    "num": "015",
+                    "name": "Beedrill",
+                    "img": "https://url.com/15.png"
+                }
+            ],
+            "max_cp": 515,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Bug",
+                    "Fairy",
+                    "Fighting",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Inseto",
+                    "Fada",
+                    "Lutador",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Return",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Retorno",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "num": "014",
+            "name": "Kakuna",
+            "img": "https://url.com/14.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Veneno"
+                ]
+            },
+            "atk": 46,
+            "sta": 128,
+            "def": 75,
+            "generation": 1,
+            "description": {
+                "en": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+                "pt_br": "Kakuna permanece virtualmente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, ele está extremamente ocupado enquanto se prepara para sua próxima evolução. Isso é evidente pelo quão quente a casca se torna ao toque."
+            },
+            "weight": 10.0,
+            "height": 0.6,
+            "pre_evolution": [
+                {
+                    "id": 13,
+                    "num": "013",
+                    "name": "Weedle",
+                    "img": "https://url.com/13.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 15,
+                    "num": "015",
+                    "name": "Beedrill",
+                    "img": "https://url.com/15.png"
+                }
+            ],
+            "max_cp": 488,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Bug",
+                    "Fairy",
+                    "Fighting",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Inseto",
+                    "Fada",
+                    "Lutador",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Return",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Retorno",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "num": "015",
+            "name": "Beedrill",
+            "img": "https://url.com/15.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Veneno"
+                ]
+            },
+            "atk": 169,
+            "sta": 163,
+            "def": 130,
+            "generation": 1,
+            "description": {
+                "en": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+                "pt_br": "Beedrill é extremamente territorial. Ninguém deve se aproximar de seu ninho - isso é para sua própria segurança. Se irritados, eles atacarão em um enxame furioso."
+            },
+            "weight": 29.5,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 13,
+                    "num": "013",
+                    "name": "Weedle",
+                    "img": "https://url.com/13.png"
+                },
+                {
+                    "id": 14,
+                    "num": "014",
+                    "name": "Kakuna",
+                    "img": "https://url.com/14.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2087,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Bug",
+                    "Fairy",
+                    "Fighting",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Inseto",
+                    "Fada",
+                    "Lutador",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Sludge Bomb",
+                    "Infestation"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Bomba de Lodo",
+                    "Infestação"
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "num": "016",
+            "name": "Pidgey",
+            "img": "https://url.com/16.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 85,
+            "sta": 120,
+            "def": 73,
+            "generation": 1,
+            "description": {
+                "en": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+                "pt_br": "Pidgey tem um senso de direção extremamente aguçado. Ele é capaz de retornar infalivelmente para casa, para seu ninho, por mais distante que possa ser removido de seu ambiente familiar."
+            },
+            "weight": 1.8,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 17,
+                    "num": "017",
+                    "name": "Pidgeotto",
+                    "img": "https://url.com/17.png"
+                },
+                {
+                    "id": 18,
+                    "num": "018",
+                    "name": "Pidgeot",
+                    "img": "https://url.com/18.png"
+                }
+            ],
+            "max_cp": 769,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Aerial Ace"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Ás Aéreo"
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "num": "017",
+            "name": "Pidgeotto",
+            "img": "https://url.com/17.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 117,
+            "sta": 160,
+            "def": 105,
+            "generation": 1,
+            "description": {
+                "en": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+                "pt_br": "Pidgeotto reivindica uma grande área como seu próprio território. Este Pokémon voa, patrulhando seu espaço de vida. Se seu território for violado, ele não mostra misericórdia em punir completamente o inimigo com suas garras afiadas."
+            },
+            "weight": 30.0,
+            "height": 1.1,
+            "pre_evolution": [
+                {
+                    "id": 16,
+                    "num": "016",
+                    "name": "Pidgey",
+                    "img": "https://url.com/16.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 18,
+                    "num": "018",
+                    "name": "Pidgeot",
+                    "img": "https://url.com/18.png"
+                }
+            ],
+            "max_cp": 1350,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Wing Attack",
+                    "Aerial Ace"
+                ],
+                "pt_br": [
+                    "Ataque de Asa",
+                    "Ás Aéreo"
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "num": "018",
+            "name": "Pidgeot",
+            "img": "https://url.com/18.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 166,
+            "sta": 195,
+            "def": 154,
+            "generation": 1,
+            "description": {
+                "en": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+                "pt_br": "Este Pokémon tem uma plumagem deslumbrante de penas lindamente brilhantes. Muitos treinadores são cativados pela beleza impressionante das penas em sua cabeça, obrigando-os a escolher Pidgeot como seu Pokémon."
+            },
+            "weight": 39.5,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 16,
+                    "num": "016",
+                    "name": "Pidgey",
+                    "img": "https://url.com/16.png"
+                },
+                {
+                    "id": 17,
+                    "num": "017",
+                    "name": "Pidgeotto",
+                    "img": "https://url.com/17.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2407,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Gust",
+                    "Brave Bird"
+                ],
+                "pt_br": [
+                    "Rajada",
+                    "Pássaro Valente"
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "num": "019",
+            "name": "Rattata",
+            "img": "https://url.com/19.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 103,
+            "sta": 102,
+            "def": 70,
+            "generation": 1,
+            "description": {
+                "en": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+                "pt_br": "Rattata é cauteloso ao extremo. Mesmo quando está dormindo, ele ouve constantemente movendo as orelhas. Não é exigente quanto ao local onde mora - fará seu ninho em qualquer lugar."
+            },
+            "weight": 3.5,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 20,
+                    "num": "020",
+                    "name": "Raticate",
+                    "img": "https://url.com/20.png"
+                }
+            ],
+            "max_cp": 830,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Hyper Fang"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Hiper Fang"
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "num": "020",
+            "name": "Raticate",
+            "img": "https://url.com/20.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 161,
+            "sta": 146,
+            "def": 139,
+            "generation": 1,
+            "description": {
+                "en": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+                "pt_br": "As fortes presas de Raticate crescem continuamente. Para mantê-los no chão, ele corrói pedras e troncos. Pode até mastigar as paredes das casas."
+            },
+            "weight": 18.5,
+            "height": 0.7,
+            "pre_evolution": [
+                {
+                    "id": 19,
+                    "num": "019",
+                    "name": "Rattata",
+                    "img": "https://url.com/19.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 1956,
+            "resistant": {
+                "en": [
+                    "Dark",
+                    "Psychic",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Sombrio",
+                    "Psíquico",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting",
+                    "Bug",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Inseto",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Hyper Beam"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Hiper Feixe"
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "num": "021",
+            "name": "Spearow",
+            "img": "https://url.com/21.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 112,
+            "sta": 120,
+            "def": 60,
+            "generation": 1,
+            "description": {
+                "en": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+                "pt_br": "Spearow dá um grito muito alto que pode ser ouvido a mais de um quilômetro de distância. Se seu grito agudo e agudo for ouvido ecoando por toda parte, é um sinal de que eles estão avisando um ao outro sobre o perigo."
+            },
+            "weight": 2.0,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 22,
+                    "num": "022",
+                    "name": "Fearow",
+                    "img": "https://url.com/22.png"
+                }
+            ],
+            "max_cp": 902,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Sky Attack",
+                    "Peck",
+                    "Drill Peck"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Ataque do Céu",
+                    "Bicada",
+                    "Broca Bicada"
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "num": "022",
+            "name": "Fearow",
+            "img": "https://url.com/22.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 182,
+            "sta": 163,
+            "def": 133,
+            "generation": 1,
+            "description": {
+                "en": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+                "pt_br": "Fearow é reconhecido por seu pescoço longo e bico alongado. Eles são convenientemente moldados para capturar presas no solo ou na água. Ele move habilmente seu bico longo e fino para pegar a presa."
+            },
+            "weight": 38.0,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 21,
+                    "num": "021",
+                    "name": "Spearow",
+                    "img": "https://url.com/21.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2257,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Peck",
+                    "Sky Attack"
+                ],
+                "pt_br": [
+                    "Bicada",
+                    "Ataque do Céu"
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "num": "023",
+            "name": "Ekans",
+            "img": "https://url.com/23.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 110,
+            "sta": 111,
+            "def": 97,
+            "generation": 1,
+            "description": {
+                "en": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+                "pt_br": "Ekans se enrola em uma espiral enquanto descansa. Assumir esta posição permite que ele responda rapidamente a uma ameaça de qualquer direção com um clarão de sua cabeça erguida."
+            },
+            "weight": 6.9,
+            "height": 2.0,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 24,
+                    "num": "024",
+                    "name": "Arbok",
+                    "img": "https://url.com/24.png"
+                }
+            ],
+            "max_cp": 1048,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Acid",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Ácido",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "num": "024",
+            "name": "Arbok",
+            "img": "https://url.com/24.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 167,
+            "sta": 155,
+            "def": 153,
+            "generation": 1,
+            "description": {
+                "en": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crushing embrace is impossible.",
+                "pt_br": "Este Pokémon é extremamente forte para restringir as coisas com seu corpo. Pode até mesmo achatar tambores de óleo de aço. Uma vez que Arbok envolve seu corpo em torno de seu inimigo, é impossível escapar de seu abraço esmagador."
+            },
+            "weight": 65.0,
+            "height": 3.5,
+            "pre_evolution": [
+                {
+                    "id": 23,
+                    "num": "023",
+                    "name": "Ekans",
+                    "img": "https://url.com/23.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2171,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Acid",
+                    "Gunk Shot"
+                ],
+                "pt_br": [
+                    "Ácido",
+                    "Tiro de Gosma"
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "num": "025",
+            "name": "Pikachu",
+            "img": "https://url.com/25.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 112,
+            "sta": 111,
+            "def": 96,
+            "generation": 1,
+            "description": {
+                "en": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+                "pt_br": "Sempre que Pikachu se depara com algo novo, ele o ataca com um choque elétrico. Se você encontrar uma baga enegrecida, é uma evidência de que este Pokémon confundiu a intensidade de sua carga."
+            },
+            "weight": 6.0,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 26,
+                    "num": "026",
+                    "name": "Raichu",
+                    "img": "https://url.com/26.png"
+                }
+            ],
+            "max_cp": 1060,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Thunder Shock",
+                    "Wild Charge"
+                ],
+                "pt_br": [
+                    "Choque do Trovão",
+                    "Carga Selvagem"
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "num": "026",
+            "name": "Raichu",
+            "img": "https://url.com/26.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 193,
+            "sta": 155,
+            "def": 151,
+            "generation": 1,
+            "description": {
+                "en": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+                "pt_br": "Se os sacos elétricos ficarem excessivamente carregados, Raichu finca sua cauda no solo e descarrega. Pedaços de terra queimados serão encontrados perto do ninho deste Pokémon."
+            },
+            "weight": 30.0,
+            "height": 0.8,
+            "pre_evolution": [
+                {
+                    "id": 25,
+                    "num": "025",
+                    "name": "Pikachu",
+                    "img": "https://url.com/25.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2467,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Volt Switch",
+                    "Wild Charge"
+                ],
+                "pt_br": [
+                    "Interruptor Volt",
+                    "Carga Selvagem"
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "num": "027",
+            "name": "Sandshrew",
+            "img": "https://url.com/27.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 126,
+            "sta": 137,
+            "def": 120,
+            "generation": 1,
+            "description": {
+                "en": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+                "pt_br": "O corpo de Sandshrew está configurado para absorver água sem desperdício, permitindo-lhe sobreviver em um deserto árido. Este Pokémon se enrola para se proteger de seus inimigos."
+            },
+            "weight": 12.0,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 28,
+                    "num": "028",
+                    "name": "Sandslash",
+                    "img": "https://url.com/28.png"
+                }
+            ],
+            "max_cp": 1426,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud Shot",
+                    "Dig"
+                ],
+                "pt_br": [
+                    "Tiro de Lama",
+                    "Escavação"
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "num": "028",
+            "name": "Sandslash",
+            "img": "https://url.com/28.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 182,
+            "sta": 181,
+            "def": 175,
+            "generation": 1,
+            "description": {
+                "en": "Sandslash body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+                "pt_br": "O corpo do Sandslash é coberto por pontas duras, que são seções endurecidas de sua pele. Uma vez por ano, os espinhos antigos caem, para serem substituídos por novos espinhos que crescem sob os antigos."
+            },
+            "weight": 29.5,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 27,
+                    "num": "027",
+                    "name": "Sandshrew",
+                    "img": "https://url.com/27.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2684,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud Shot",
+                    "Earthquake",
+                    "Bulldoze"
+                ],
+                "pt_br": [
+                    "Tiro de Lama",
+                    "Terremoto",
+                    "Derrubar"
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "num": "029",
+            "name": "Nidoran♀",
+            "img": "https://url.com/29.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 86,
+            "sta": 146,
+            "def": 89,
+            "generation": 1,
+            "description": {
+                "en": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+                "pt_br": "Nidoran♀ tem farpas que secretam um veneno poderoso. Acredita-se que eles tenham se desenvolvido como proteção para este Pokémon de corpo pequeno. Quando enfurecido, ele libera uma toxina horrível de seu chifre."
+            },
+            "weight": 7.0,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 30,
+                    "num": "030",
+                    "name": "Nidorina",
+                    "img": "https://url.com/30.png"
+                },
+                {
+                    "id": 31,
+                    "num": "031",
+                    "name": "Nidoqueen",
+                    "img": "https://url.com/31.png"
+                }
+            ],
+            "max_cp": 922,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Sting",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Picada de Veneno",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "num": "030",
+            "name": "Nidorina",
+            "img": "https://url.com/30.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 117,
+            "sta": 172,
+            "def": 120,
+            "generation": 1,
+            "description": {
+                "en": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+                "pt_br": "Quando Nidorina está com seus amigos ou familiares, eles mantêm suas farpas escondidas para evitar que se machuquem. Este Pokémon parece ficar nervoso se for separado dos outros."
+            },
+            "weight": 20.0,
+            "height": 0.8,
+            "pre_evolution": [
+                {
+                    "id": 29,
+                    "num": "029",
+                    "name": "Nidoran♀",
+                    "img": "https://url.com/29.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 31,
+                    "num": "031",
+                    "name": "Nidoqueen",
+                    "img": "https://url.com/31.png"
+                }
+            ],
+            "max_cp": 1480,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Sting",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Picada de Veneno",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "num": "031",
+            "name": "Nidoqueen",
+            "img": "https://url.com/31.png",
+            "type": {
+                "en": [
+                    "Poison",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Terrestre"
+                ]
+            },
+            "atk": 180,
+            "sta": 207,
+            "def": 173,
+            "generation": 1,
+            "description": {
+                "en": "Nidoqueen body is encased in extremely hard scales. It is adept at sending goes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+                "pt_br": "O corpo de Nidoqueen é envolto em escamas extremamente duras. É adepto de enviar vai voando com tackles ásperos. Este Pokémon é mais forte quando está defendendo seus filhos."
+            },
+            "weight": 60.0,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 29,
+                    "num": "029",
+                    "name": "Nidoran♀",
+                    "img": "https://url.com/29.png"
+                },
+                {
+                    "id": 30,
+                    "num": "030",
+                    "name": "Nidorina",
+                    "img": "https://url.com/30.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2812,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Rock",
+                    "Bug",
+                    "Fairy",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Pedra",
+                    "Inseto",
+                    "Fada",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Water",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Água",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Earthquake",
+                    "Earth Power"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Terremoto",
+                    "Poder da Terra"
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "num": "032",
+            "name": "Nidoran♂",
+            "img": "https://url.com/32.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 105,
+            "sta": 130,
+            "def": 76,
+            "generation": 1,
+            "description": {
+                "en": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+                "pt_br": "Nidoran♂ desenvolveu músculos para mover as orelhas. Graças a eles, as orelhas podem ser movidas livremente em qualquer direção. Mesmo o menor som não escapa da atenção deste Pokémon."
+            },
+            "weight": 9.0,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 33,
+                    "num": "033",
+                    "name": "Nidorino",
+                    "img": "https://url.com/33.png"
+                },
+                {
+                    "id": 34,
+                    "num": "034",
+                    "name": "Nidoking",
+                    "img": "https://url.com/34.png"
+                }
+            ],
+            "max_cp": 973,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Sting",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Picada de Veneno",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "num": "033",
+            "name": "Nidorino",
+            "img": "https://url.com/33.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 137,
+            "sta": 156,
+            "def": 111,
+            "generation": 1,
+            "description": {
+                "en": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+                "pt_br": "Nidorino tem um chifre mais duro que um diamante. Se ele sentir uma presença hostil, todas as farpas em suas costas se eriçarão ao mesmo tempo e ele desafiará o inimigo com todas as suas forças."
+            },
+            "weight": 19.5,
+            "height": 0.9,
+            "pre_evolution": [
+                {
+                    "id": 32,
+                    "num": "032",
+                    "name": "Nidoran♂",
+                    "img": "https://url.com/32.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 34,
+                    "num": "034",
+                    "name": "Nidoking",
+                    "img": "https://url.com/34.png"
+                }
+            ],
+            "max_cp": 1575,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "num": "034",
+            "name": "Nidoking",
+            "img": "https://url.com/34.png",
+            "type": {
+                "en": [
+                    "Poison",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Terrestre"
+                ]
+            },
+            "atk": 204,
+            "sta": 191,
+            "def": 156,
+            "generation": 1,
+            "description": {
+                "en": "Nidoking thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+                "pt_br": "Nidoking a cauda grossa possui um poder destrutivo enorme. Com um golpe, ele pode derrubar uma torre de transmissão de metal. Depois que esse Pokémon começa a enlouquecer, não há como pará-lo."
+            },
+            "weight": 62.0,
+            "height": 1.4,
+            "pre_evolution": [
+                {
+                    "id": 32,
+                    "num": "032",
+                    "name": "Nidoran♂",
+                    "img": "https://url.com/32.png"
+                },
+                {
+                    "id": 33,
+                    "num": "033",
+                    "name": "Nidorino",
+                    "img": "https://url.com/33.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2902,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Rock",
+                    "Bug",
+                    "Fairy",
+                    "Poison",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Pedra",
+                    "Inseto",
+                    "Fada",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Water",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Água",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Earthquake",
+                    "Earth Power"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Terremoto",
+                    "Poder da Terra"
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "num": "035",
+            "name": "Clefairy",
+            "img": "https://url.com/35.png",
+            "type": {
+                "en": [
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Fada"
+                ]
+            },
+            "atk": 107,
+            "sta": 172,
+            "def": 108,
+            "generation": 1,
+            "description": {
+                "en": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+                "pt_br": "Em todas as noites de lua cheia, grupos deste Pokémon saem para jogar. Quando chega o amanhecer, os cansados Clefairy voltam para seus tranquilos retiros nas montanhas e vão dormir aninhados uns contra os outros."
+            },
+            "weight": 7.5,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 36,
+                    "num": "036",
+                    "name": "Clefable",
+                    "img": "https://url.com/36.png"
+                }
+            ],
+            "max_cp": 1306,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Bug",
+                    "Dark",
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Inseto",
+                    "Sombrio",
+                    "Dragão"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Pound",
+                    "Moonblast",
+                    "Disarming Voice"
+                ],
+                "pt_br": [
+                    "Bater",
+                    "Explosão Lunar",
+                    "Voz de Desarmamento"
+                ]
+            }
+        },
+        {
+            "id": 36,
+            "num": "036",
+            "name": "Clefable",
+            "img": "https://url.com/36.png",
+            "type": {
+                "en": [
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Fada"
+                ]
+            },
+            "atk": 178,
+            "sta": 216,
+            "def": 162,
+            "generation": 1,
+            "description": {
+                "en": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+                "pt_br": "Clefable se move pulando levemente como se estivesse voando com suas asas. Seu passo saltitante permite até mesmo andar sobre a água. É conhecido por fazer passeios em lagos nas noites calmas e de luar."
+            },
+            "weight": 40.0,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 35,
+                    "num": "035",
+                    "name": "Clefairy",
+                    "img": "https://url.com/35.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2755,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Bug",
+                    "Dark",
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Inseto",
+                    "Sombrio",
+                    "Dragão"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Charm",
+                    "Meteor Mash"
+                ],
+                "pt_br": [
+                    "Charme",
+                    "Meteoro de Purê"
+                ]
+            }
+        },
+        {
+            "id": 37,
+            "num": "037",
+            "name": "Vulpix",
+            "img": "https://url.com/37.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 96,
+            "sta": 116,
+            "def": 109,
+            "generation": 1,
+            "description": {
+                "en": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
+                "pt_br": "Na época de seu nascimento, Vulpix tinha uma cauda branca. A cauda se separa em seis se este Pokémon receber muito amor de seu Treinador. As seis caudas ficam magnificamente enroladas."
+            },
+            "weight": 9.9,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 38,
+                    "num": "038",
+                    "name": "Ninetales",
+                    "img": "https://url.com/38.png"
+                }
+            ],
+            "max_cp": 998,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Weather Ball",
+                    "Ember",
+                    "Flame Charge"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Bola Meteorológica",
+                    "Brasa",
+                    "Carga de Fogo"
+                ]
+            }
+        },
+        {
+            "id": 38,
+            "num": "038",
+            "name": "Ninetales",
+            "img": "https://url.com/38.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 169,
+            "sta": 177,
+            "def": 190,
+            "generation": 1,
+            "description": {
+                "en": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
+                "pt_br": "Ninetales lança uma luz sinistra de seus olhos vermelhos brilhantes para obter controle total sobre a mente de seu inimigo. Diz-se que este Pokémon vive por mil anos."
+            },
+            "weight": 19.9,
+            "height": 1.1,
+            "pre_evolution": [
+                {
+                    "id": 37,
+                    "num": "037",
+                    "name": "Vulpix",
+                    "img": "https://url.com/37.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2577,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Spin",
+                    "Weather Ball"
+                ],
+                "pt_br": [
+                    "Rotação de Fogo",
+                    "Bola Meteorológica"
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "num": "039",
+            "name": "Jigglypuff",
+            "img": "https://url.com/39.png",
+            "type": {
+                "en": [
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Fada"
+                ]
+            },
+            "atk": 80,
+            "sta": 251,
+            "def": 41,
+            "generation": 1,
+            "description": {
+                "en": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+                "pt_br": "As cordas vocais do Jigglypuff podem ajustar livremente o comprimento de onda de sua voz. Este Pokémon usa essa habilidade de cantar precisamente no comprimento de onda certo para deixar seus inimigos mais sonolentos."
+            },
+            "weight": 5.5,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 40,
+                    "num": "040",
+                    "name": "Wigglytuff",
+                    "img": "https://url.com/40.png"
+                }
+            ],
+            "max_cp": 818,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Dark",
+                    "Ghost",
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Sombrio",
+                    "Fantasma",
+                    "Dragão"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Pound",
+                    "Dazzling Gleam",
+                    "Feint Attack",
+                    "Play Rough"
+                ],
+                "pt_br": [
+                    "Bater",
+                    "Brilho Deslumbrante",
+                    "Ataque de Simulação",
+                    "Jogar Duro"
+                ]
+            }
+        },
+        {
+            "id": 40,
+            "num": "040",
+            "name": "Wigglytuff",
+            "img": "https://url.com/40.png",
+            "type": {
+                "en": [
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Fada"
+                ]
+            },
+            "atk": 156,
+            "sta": 295,
+            "def": 90,
+            "generation": 1,
+            "description": {
+                "en": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
+                "pt_br": "Wigglytuff tem olhos grandes como pires. A superfície dos olhos está sempre coberta por uma fina camada de lágrimas. Se alguma poeira entrar nos olhos do Pokémon, ela será rapidamente removida."
+            },
+            "weight": 12.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 39,
+                    "num": "039",
+                    "name": "Jigglypuff",
+                    "img": "https://url.com/39.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2178,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Dark",
+                    "Ghost",
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Sombrio",
+                    "Fantasma",
+                    "Dragão"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Pound",
+                    "Hyper Beam",
+                    "Charm",
+                    "Play Rough"
+                ],
+                "pt_br": [
+                    "Bater",
+                    "Hiper Feixe",
+                    "Charme",
+                    "Jogar Duro"
+                ]
+            }
+        },
+        {
+            "id": 41,
+            "num": "041",
+            "name": "Zubat",
+            "img": "https://url.com/41.png",
+            "type": {
+                "en": [
+                    "Poison",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Voador"
+                ]
+            },
+            "atk": 83,
+            "sta": 120,
+            "def": 73,
+            "generation": 1,
+            "description": {
+                "en": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+                "pt_br": "Zubat permanece silenciosamente imóvel em um ponto escuro durante as horas de luz do dia. Isso ocorre porque a exposição prolongada ao sol faz com que seu corpo fique ligeiramente queimado."
+            },
+            "weight": 7.5,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 42,
+                    "num": "042",
+                    "name": "Golbat",
+                    "img": "https://url.com/42.png"
+                }
+            ],
+            "max_cp": 754,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Poison",
+                    "Fairy",
+                    "Fighting",
+                    "Bug",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Veneno",
+                    "Fada",
+                    "Lutador",
+                    "Inseto",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 42,
+            "num": "042",
+            "name": "Golbat",
+            "img": "https://url.com/42.png",
+            "type": {
+                "en": [
+                    "Poison",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Voador"
+                ]
+            },
+            "atk": 161,
+            "sta": 181,
+            "def": 150,
+            "generation": 1,
+            "description": {
+                "en": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
+                "pt_br": "Golbat adora beber o sangue de coisas vivas. É particularmente ativo na escuridão da noite. Este Pokémon voa pelos céus noturnos, em busca de sangue fresco."
+            },
+            "weight": 55.0,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 41,
+                    "num": "041",
+                    "name": "Zubat",
+                    "img": "https://url.com/41.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2234,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Poison",
+                    "Fairy",
+                    "Fighting",
+                    "Bug",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Veneno",
+                    "Fada",
+                    "Lutador",
+                    "Inseto",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Wing Attack",
+                    "Shadow Ball"
+                ],
+                "pt_br": [
+                    "Ataque de Asa",
+                    "Bola de Sombra"
+                ]
+            }
+        },
+        {
+            "id": 43,
+            "num": "043",
+            "name": "Oddish",
+            "img": "https://url.com/43.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 131,
+            "sta": 128,
+            "def": 112,
+            "generation": 1,
+            "description": {
+                "en": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+                "pt_br": "Durante o dia, Oddish enterra-se no solo para absorver nutrientes do solo usando todo o seu corpo. Quanto mais fértil o solo, mais brilhantes se tornam suas folhas."
+            },
+            "weight": 5.4,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 44,
+                    "num": "044",
+                    "name": "Gloom",
+                    "img": "https://url.com/44.png"
+                },
+                {
+                    "id": 45,
+                    "num": "045",
+                    "name": "Vileplume",
+                    "img": "https://url.com/45.png"
+                }
+            ],
+            "max_cp": 1389,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Eletric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Acid",
+                    "Sludge Bomb",
+                    "Razor Leaf"
+                ],
+                "pt_br": [
+                    "Ácido",
+                    "Bomba de Lodo",
+                    "Folha Navalha"
+                ]
+            }
+        },
+        {
+            "id": 44,
+            "num": "044",
+            "name": "Gloom",
+            "img": "https://url.com/44.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 153,
+            "sta": 155,
+            "def": 136,
+            "generation": 1,
+            "description": {
+                "en": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
+                "pt_br": "A escuridão libera uma fragrância desagradável do pistilo de sua flor. Quando confrontado com o perigo, o fedor piora. Se este Pokémon está se sentindo calmo e seguro, ele não libera seu aroma fedorento usual."
+            },
+            "weight": 8.6,
+            "height": 0.8,
+            "pre_evolution": [
+                {
+                    "id": 43,
+                    "num": "043",
+                    "name": "Oddish",
+                    "img": "https://url.com/43.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 45,
+                    "num": "045",
+                    "name": "Vileplume",
+                    "img": "https://url.com/45.png"
+                }
+            ],
+            "max_cp": 1900,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Eletric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Acid",
+                    "Sludge Bomb",
+                    "Razor Leaf"
+                ],
+                "pt_br": [
+                    "Ácido",
+                    "Bomba de Lodo",
+                    "Folha Navalha"
+                ]
+            }
+        },
+        {
+            "id": 45,
+            "num": "045",
+            "name": "Vileplume",
+            "img": "https://url.com/45.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 202,
+            "sta": 181,
+            "def": 167,
+            "generation": 1,
+            "description": {
+                "en": "Vileplume toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+                "pt_br": "O pólen tóxico de Vileplume desencadeia ataques de alergia atrozes. É por isso que é aconselhável nunca se aproximar de flores atraentes na selva, por mais bonitas que sejam."
+            },
+            "weight": 18.6,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 43,
+                    "num": "043",
+                    "name": "Oddish",
+                    "img": "https://url.com/43.png"
+                },
+                {
+                    "id": 44,
+                    "num": "044",
+                    "name": "Gloom",
+                    "img": "https://url.com/44.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2893,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Eletric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Razor Leaf",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Folha Navalha",
+                    "Feixe Solar"
+                ]
+            }
+        },
+        {
+            "id": 46,
+            "num": "046",
+            "name": "Paras",
+            "img": "https://url.com/46.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta"
+                ]
+            },
+            "atk": 121,
+            "sta": 111,
+            "def": 99,
+            "generation": 1,
+            "description": {
+                "en": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
+                "pt_br": "Paras tem cogumelos parasitas crescendo em suas costas, chamados tochukaso. Eles crescem ao extrair nutrientes desse hospedeiro Bug Pokémon. Eles são altamente valorizados como um medicamento para prolongar a vida."
+            },
+            "weight": 5.4,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 47,
+                    "num": "047",
+                    "name": "Parasect",
+                    "img": "https://url.com/47.png"
+                }
+            ],
+            "max_cp": 1150,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Eletric",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Poison",
+                    "Rock",
+                    "Bug",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Veneno",
+                    "Pedra",
+                    "Inseto",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Seed Bomb"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Bomba de Semente"
+                ]
+            }
+        },
+        {
+            "id": 47,
+            "num": "047",
+            "name": "Parasect",
+            "img": "https://url.com/47.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta"
+                ]
+            },
+            "atk": 165,
+            "sta": 155,
+            "def": 146,
+            "generation": 1,
+            "description": {
+                "en": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+                "pt_br": "O Parasect é conhecido por infestar grandes árvores em massa e drenar nutrientes do tronco inferior e das raízes. Quando uma árvore infestada morre, eles se movem para outra árvore de uma vez."
+            },
+            "weight": 29.5,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 46,
+                    "num": "046",
+                    "name": "Paras",
+                    "img": "https://url.com/46.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2102,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Eletric",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Poison",
+                    "Rock",
+                    "Bug",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Veneno",
+                    "Pedra",
+                    "Inseto",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Solar Beam",
+                    "Struggle Bug"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Feixe Solar",
+                    "Luta de Inseto"
+                ]
+            }
+        },
+        {
+            "id": 48,
+            "num": "048",
+            "name": "Venonat",
+            "img": "https://url.com/48.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Veneno"
+                ]
+            },
+            "atk": 100,
+            "sta": 155,
+            "def": 100,
+            "generation": 1,
+            "description": {
+                "en": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+                "pt_br": "Diz-se que Venonat evoluiu com uma camada de cabelo fino e duro que cobre todo o seu corpo para proteção. Possui olhos grandes que nunca deixam de detectar até mesmo uma presa minúscula."
+            },
+            "weight": 30.0,
+            "height": 1.0,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 49,
+                    "num": "049",
+                    "name": "Venomoth",
+                    "img": "https://url.com/49.png"
+                }
+            ],
+            "max_cp": 1135,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Bug",
+                    "Fairy",
+                    "Fighting",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Inseto",
+                    "Fada",
+                    "Lutador",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Signal Beam",
+                    "Confusion"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Feixe de Sinal",
+                    "Confusão"
+                ]
+            }
+        },
+        {
+            "id": 49,
+            "num": "049",
+            "name": "Venomoth",
+            "img": "https://url.com/49.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Veneno"
+                ]
+            },
+            "atk": 179,
+            "sta": 172,
+            "def": 143,
+            "generation": 1,
+            "description": {
+                "en": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+                "pt_br": "Venomoth é noturno - é um Pokémon que só se torna ativo à noite. Sua presa favorita são pequenos insetos que se aglomeram ao redor dos postes de luz, atraídos pela luz na escuridão."
+            },
+            "weight": 12.5,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 48,
+                    "num": "048",
+                    "name": "Venonat",
+                    "img": "https://url.com/48.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2354,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Bug",
+                    "Fairy",
+                    "Fighting",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Inseto",
+                    "Fada",
+                    "Lutador",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "Bug Buzz",
+                    "Confusion"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "Zumbido de Inseto",
+                    "Confusão"
+                ]
+            }
+        },
+        {
+            "id": 50,
+            "num": "050",
+            "name": "Diglett",
+            "img": "https://url.com/50.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 109,
+            "sta": 67,
+            "def": 78,
+            "generation": 1,
+            "description": {
+                "en": "Diglett are raised in most farms. The reason is simple—wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+                "pt_br": "Os Diglett são criados na maioria das fazendas. A razão é simples - onde quer que este Pokémon se enterre, o solo é deixado perfeitamente arado para o plantio. Este solo é ideal para o cultivo de vegetais deliciosos."
+            },
+            "weight": 0.8,
+            "height": 0.2,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 51,
+                    "num": "051",
+                    "name": "Dugtrio",
+                    "img": "https://url.com/51.png"
+                }
+            ],
+            "max_cp": 764,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Dig"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Escavação"
+                ]
+            }
+        },
+        {
+            "id": 51,
+            "num": "051",
+            "name": "Dugtrio",
+            "img": "https://url.com/51.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 167,
+            "sta": 111,
+            "def": 134,
+            "generation": 1,
+            "description": {
+                "en": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+                "pt_br": "Dugtrio são na verdade trigêmeos que emergiram de um corpo. Como resultado, cada trigêmeo pensa exatamente como os outros dois trigêmeos. Eles trabalham cooperativamente para escavar indefinidamente."
+            },
+            "weight": 33.3,
+            "height": 0.7,
+            "pre_evolution": [
+                {
+                    "id": 50,
+                    "num": "050",
+                    "name": "Diglett",
+                    "img": "https://url.com/50.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 1760,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Earthquake"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Terremoto"
+                ]
+            }
+        },
+        {
+            "id": 52,
+            "num": "052",
+            "name": "Meowth",
+            "img": "https://url.com/52.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 92,
+            "sta": 120,
+            "def": 78,
+            "generation": 1,
+            "description": {
+                "en": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+                "pt_br": "Meowth recolhe suas garras afiadas em suas patas para se esgueirar furtivamente sem dar passos incriminadores. Por alguma razão, este Pokémon adora moedas brilhantes que brilham com a luz."
+            },
+            "weight": 4.2,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 53,
+                    "num": "053",
+                    "name": "Persian",
+                    "img": "https://url.com/53.png"
+                }
+            ],
+            "max_cp": 846,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Scratch",
+                    "Body Slam"
+                ],
+                "pt_br": [
+                    "Arranhar",
+                    "Pancada Corporal"
+                ]
+            }
+        },
+        {
+            "id": 53,
+            "num": "053",
+            "name": "Persian",
+            "img": "https://url.com/53.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 150,
+            "sta": 163,
+            "def": 136,
+            "generation": 1,
+            "description": {
+                "en": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+                "pt_br": "Persa tem seis bigodes ousados que lhe conferem uma aparência de robustez. Os bigodes detectam os movimentos do ar para determinar o que está nas proximidades do Pokémon. Torna-se dócil se agarrado pelos bigodes."
+            },
+            "weight": 32.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 52,
+                    "num": "052",
+                    "name": "Meowth",
+                    "img": "https://url.com/52.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 1910,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Scratch",
+                    "Feint Attack",
+                    "Play Rough"
+                ],
+                "pt_br": [
+                    "Arranhar",
+                    "Ataque de Simulação",
+                    "Jogar Duro"
+                ]
+            }
+        },
+        {
+            "id": 54,
+            "num": "054",
+            "name": "Psyduck",
+            "img": "https://url.com/54.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 122,
+            "sta": 137,
+            "def": 95,
+            "generation": 1,
+            "description": {
+                "en": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+                "pt_br": "Psyduck usa um poder misterioso. Ao fazer isso, esse Pokémon gera ondas cerebrais que supostamente só são vistas em pessoas que dormem. Essa descoberta gerou polêmica entre os estudiosos."
+            },
+            "weight": 19.6,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 55,
+                    "num": "055",
+                    "name": "Golduck",
+                    "img": "https://url.com/55.png"
+                }
+            ],
+            "max_cp": 1250,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Aqua Tail",
+                    "Zen Headbutt"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Cauda de Água",
+                    "Cabeça de Vento"
+                ]
+            }
+        },
+        {
+            "id": 55,
+            "num": "055",
+            "name": "Golduck",
+            "img": "https://url.com/55.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 191,
+            "sta": 190,
+            "def": 162,
+            "generation": 1,
+            "description": {
+                "en": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
+                "pt_br": "As nadadeiras palmadas em suas patas dianteiras e traseiras e o corpo aerodinâmico de Golduck dão-lhe uma velocidade assustadora. Este Pokémon é definitivamente muito mais rápido do que até mesmo o nadador mais atlético."
+            },
+            "weight": 76.6,
+            "height": 1.7,
+            "pre_evolution": [
+                {
+                    "id": 54,
+                    "num": "054",
+                    "name": "Psyduck",
+                    "img": "https://url.com/54.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2770,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Hydro Pump",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Bomba de Hidro",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 56,
+            "num": "056",
+            "name": "Mankey",
+            "img": "https://url.com/56.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 148,
+            "sta": 120,
+            "def": 82,
+            "generation": 1,
+            "description": {
+                "en": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+                "pt_br": "Quando Mankey começa a tremer e sua respiração nasal fica difícil, é um sinal claro de que ele está ficando com raiva. No entanto, como ele entra em uma fúria gigantesca quase que instantaneamente, é impossível para alguém fugir de sua fúria."
+            },
+            "weight": 28.0,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 57,
+                    "num": "057",
+                    "name": "Primeape",
+                    "img": "https://url.com/57.png"
+                }
+            ],
+            "max_cp": 1317,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Karate Chop",
+                    "Cross Chop"
+                ],
+                "pt_br": [
+                    "Golpe de Caratê",
+                    "Costeleta Cruzada"
+                ]
+            }
+        },
+        {
+            "id": 57,
+            "num": "057",
+            "name": "Primeape",
+            "img": "https://url.com/57.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 207,
+            "sta": 163,
+            "def": 138,
+            "generation": 1,
+            "description": {
+                "en": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+                "pt_br": "Quando Primeape fica furioso, sua circulação sanguínea aumenta. Por sua vez, seus músculos ficam ainda mais fortes. No entanto, ele também se torna muito menos inteligente ao mesmo tempo."
+            },
+            "weight": 32.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 56,
+                    "num": "056",
+                    "name": "Mankey",
+                    "img": "https://url.com/56.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2586,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Counter",
+                    "Close Combat"
+                ],
+                "pt_br": [
+                    "Contra-atacar",
+                    "Luta Corpo a Corpo"
+                ]
+            }
+        },
+        {
+            "id": 58,
+            "num": "058",
+            "name": "Growlithe",
+            "img": "https://url.com/58.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 136,
+            "sta": 146,
+            "def": 93,
+            "generation": 1,
+            "description": {
+                "en": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+                "pt_br": "Growlithe tem um olfato excelente. Assim que sentir algum cheiro, esse Pokémon não esquecerá o cheiro, aconteça o que acontecer. Ele usa seu sentido olfativo avançado para determinar as emoções de outros seres vivos."
+            },
+            "weight": 19.0,
+            "height": 0.7,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 59,
+                    "num": "059",
+                    "name": "Arcanine",
+                    "img": "https://url.com/59.png"
+                }
+            ],
+            "max_cp": 1405,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Ember",
+                    "Flamethrower"
+                ],
+                "pt_br": [
+                    "Brasa",
+                    "Lança-chamas"
+                ]
+            }
+        },
+        {
+            "id": 59,
+            "num": "059",
+            "name": "Arcanine",
+            "img": "https://url.com/59.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 227,
+            "sta": 207,
+            "def": 166,
+            "generation": 1,
+            "description": {
+                "en": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
+                "pt_br": "Arcanine é conhecido por sua alta velocidade. Diz-se que ele é capaz de rodar mais de 6.200 milhas em um único dia e noite. O fogo que arde descontroladamente dentro do corpo deste Pokémon é sua fonte de energia."
+            },
+            "weight": 155.0,
+            "height": 1.9,
+            "pre_evolution": [
+                {
+                    "id": 58,
+                    "num": "058",
+                    "name": "Growlithe",
+                    "img": "https://url.com/58.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3425,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Fang",
+                    "Fire Blast"
+                ],
+                "pt_br": [
+                    "Presa de Fogo",
+                    "Explosão de Fogo"
+                ]
+            }
+        },
+        {
+            "id": 60,
+            "num": "060",
+            "name": "Poliwag",
+            "img": "https://url.com/60.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 101,
+            "sta": 120,
+            "def": 82,
+            "generation": 1,
+            "description": {
+                "en": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+                "pt_br": "Poliwag tem uma pele muito fina. É possível ver as entranhas em espiral do Pokémon através da pele. Apesar de ser fina, a pele também é muito flexível. Até mesmo as presas afiadas ricocheteiam nele."
+            },
+            "weight": 12.4,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 61,
+                    "num": "061",
+                    "name": "Poliwhirl",
+                    "img": "https://url.com/61.png"
+                },
+                {
+                    "id": 62,
+                    "num": "062",
+                    "name": "Poliwrath",
+                    "img": "https://url.com/62.png"
+                }
+            ],
+            "max_cp": 937,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Bubble Beam"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Feixe de Bolha"
+                ]
+            }
+        },
+        {
+            "id": 61,
+            "num": "061",
+            "name": "Poliwhirl",
+            "img": "https://url.com/61.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 130,
+            "sta": 163,
+            "def": 123,
+            "generation": 1,
+            "description": {
+                "en": "The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+                "pt_br": "A superfície do corpo de Poliwhirl está sempre molhada e escorregadia com um fluido viscoso. Por causa dessa cobertura escorregadia, ele pode facilmente escorregar e escorregar das garras de qualquer inimigo em batalha."
+            },
+            "weight": 20.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 60,
+                    "num": "060",
+                    "name": "Poliwag",
+                    "img": "https://url.com/60.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 62,
+                    "num": "062",
+                    "name": "Poliwrath",
+                    "img": "https://url.com/62.png"
+                }
+            ],
+            "max_cp": 1604,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Scald"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Escaldar"
+                ]
+            }
+        },
+        {
+            "id": 62,
+            "num": "062",
+            "name": "Poliwrath",
+            "img": "https://url.com/62.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Lutador"
+                ]
+            },
+            "atk": 182,
+            "sta": 207,
+            "def": 184,
+            "generation": 1,
+            "description": {
+                "en": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
+                "pt_br": "Os músculos fortes e altamente desenvolvidos de Poliwrath nunca ficam cansados, por mais que se exercite. É tão incansavelmente forte que este Pokémon pode nadar para a frente e para trás através do oceano sem esforço."
+            },
+            "weight": 54.0,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 60,
+                    "num": "060",
+                    "name": "Poliwag",
+                    "img": "https://url.com/60.png"
+                },
+                {
+                    "id": 61,
+                    "num": "061",
+                    "name": "Poliwhirl",
+                    "img": "https://url.com/61.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2923,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Grass",
+                    "Electric",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Planta",
+                    "Elétrico",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Dynamic Punch"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Soco Dinâmico"
+                ]
+            }
+        }
+    ]
+}
