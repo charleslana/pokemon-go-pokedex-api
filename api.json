@@ -2,9 +2,9 @@
     "pokemon": [
         {
             "id": 1,
-            "num": "001",
+            "num": "01",
             "name": "Bulbasaur",
-            "img": "https://url.com/1.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png",
             "type": {
                 "en": [
                     "Grass",
@@ -29,15 +29,15 @@
             "next_evolution": [
                 {
                     "id": 2,
-                    "num": "002",
+                    "num": "02",
                     "name": "Ivysaur",
-                    "img": "https://url.com/2.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png"
                 },
                 {
                     "id": 3,
-                    "num": "003",
+                    "num": "03",
                     "name": "Venusaur",
-                    "img": "https://url.com/3.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png"
                 }
             ],
             "max_cp": 1260,
@@ -86,9 +86,9 @@
         },
         {
             "id": 2,
-            "num": "002",
+            "num": "02",
             "name": "Ivysaur",
-            "img": "https://url.com/2.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png",
             "type": {
                 "en": [
                     "Grass",
@@ -112,17 +112,17 @@
             "pre_evolution": [
                 {
                     "id": 1,
-                    "num": "001",
+                    "num": "01",
                     "name": "Bulbasaur",
-                    "img": "https://url.com/1.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png"
                 }
             ],
             "next_evolution": [
                 {
                     "id": 3,
-                    "num": "003",
+                    "num": "03",
                     "name": "Venusaur",
-                    "img": "https://url.com/3.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png"
                 }
             ],
             "max_cp": 1921,
@@ -171,9 +171,9 @@
         },
         {
             "id": 3,
-            "num": "003",
+            "num": "03",
             "name": "Venusaur",
-            "img": "https://url.com/3.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png",
             "type": {
                 "en": [
                     "Grass",
@@ -197,15 +197,15 @@
             "pre_evolution": [
                 {
                     "id": 1,
-                    "num": "001",
+                    "num": "01",
                     "name": "Bulbasaur",
-                    "img": "https://url.com/1.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png"
                 },
                 {
                     "id": 2,
-                    "num": "002",
+                    "num": "02",
                     "name": "Ivysaur",
-                    "img": "https://url.com/2.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png"
                 }
             ],
             "next_evolution": [],
@@ -257,9 +257,9 @@
         },
         {
             "id": 4,
-            "num": "004",
+            "num": "04",
             "name": "Charmander",
-            "img": "https://url.com/4.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png",
             "type": {
                 "en": [
                     "Fire"
@@ -282,15 +282,15 @@
             "next_evolution": [
                 {
                     "id": 5,
-                    "num": "005",
+                    "num": "05",
                     "name": "Charmeleon",
-                    "img": "https://url.com/5.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png"
                 },
                 {
                     "id": 6,
-                    "num": "006",
+                    "num": "06",
                     "name": "Charizard",
-                    "img": "https://url.com/6.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png"
                 }
             ],
             "max_cp": 1108,
@@ -339,9 +339,9 @@
         },
         {
             "id": 5,
-            "num": "005",
+            "num": "05",
             "name": "Charmeleon",
-            "img": "https://url.com/5.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png",
             "type": {
                 "en": [
                     "Fire"
@@ -363,17 +363,17 @@
             "pre_evolution": [
                 {
                     "id": 4,
-                    "num": "004",
+                    "num": "04",
                     "name": "Charmander",
-                    "img": "https://url.com/4.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png"
                 }
             ],
             "next_evolution": [
                 {
                     "id": 6,
-                    "num": "006",
+                    "num": "06",
                     "name": "Charizard",
-                    "img": "https://url.com/6.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png"
                 }
             ],
             "max_cp": 1868,
@@ -422,9 +422,9 @@
         },
         {
             "id": 6,
-            "num": "006",
+            "num": "06",
             "name": "Charizard",
-            "img": "https://url.com/6.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png",
             "type": {
                 "en": [
                     "Fire",
@@ -448,15 +448,15 @@
             "pre_evolution": [
                 {
                     "id": 4,
-                    "num": "004",
+                    "num": "04",
                     "name": "Charmander",
-                    "img": "https://url.com/4.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png"
                 },
                 {
                     "id": 5,
-                    "num": "005",
+                    "num": "05",
                     "name": "Charmeleon",
-                    "img": "https://url.com/5.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png"
                 }
             ],
             "next_evolution": [],
@@ -508,7 +508,7 @@
             "id": 7,
             "num": "007",
             "name": "Squirtle",
-            "img": "https://url.com/7.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/007.png",
             "type": {
                 "en": [
                     "Water"
@@ -533,13 +533,13 @@
                     "id": 8,
                     "num": "008",
                     "name": "Wartortle",
-                    "img": "https://url.com/8.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/008.png"
                 },
                 {
                     "id": 9,
                     "num": "009",
                     "name": "Blastoise",
-                    "img": "https://url.com/9.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/009.png"
                 }
             ],
             "max_cp": 1069,
@@ -582,7 +582,7 @@
             "id": 8,
             "num": "008",
             "name": "Wartortle",
-            "img": "https://url.com/8.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/008.png",
             "type": {
                 "en": [
                     "Water"
@@ -606,7 +606,7 @@
                     "id": 7,
                     "num": "007",
                     "name": "Squirtle",
-                    "img": "https://url.com/7.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/007.png"
                 }
             ],
             "next_evolution": [
@@ -614,7 +614,7 @@
                     "id": 9,
                     "num": "009",
                     "name": "Blastoise",
-                    "img": "https://url.com/9.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/009.png"
                 }
             ],
             "max_cp": 1682,
@@ -659,7 +659,7 @@
             "id": 9,
             "num": "009",
             "name": "Blastoise",
-            "img": "https://url.com/9.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/009.png",
             "type": {
                 "en": [
                     "Water"
@@ -683,13 +683,13 @@
                     "id": 7,
                     "num": "007",
                     "name": "Squirtle",
-                    "img": "https://url.com/7.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/007.png"
                 },
                 {
                     "id": 8,
                     "num": "008",
                     "name": "Wartortle",
-                    "img": "https://url.com/8.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/008.png"
                 }
             ],
             "next_evolution": [],
@@ -733,7 +733,7 @@
             "id": 10,
             "num": "010",
             "name": "Caterpie",
-            "img": "https://url.com/10.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/010.png",
             "type": {
                 "en": [
                     "Bug"
@@ -758,13 +758,13 @@
                     "id": 11,
                     "num": "011",
                     "name": "Metapod",
-                    "img": "https://url.com/11.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/011.png"
                 },
                 {
                     "id": 12,
                     "num": "012",
                     "name": "Butterfree",
-                    "img": "https://url.com/12.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/012.png"
                 }
             ],
             "max_cp": 494,
@@ -807,7 +807,7 @@
             "id": 11,
             "num": "011",
             "name": "Metapod",
-            "img": "https://url.com/11.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/011.png",
             "type": {
                 "en": [
                     "Bug"
@@ -831,7 +831,7 @@
                     "id": 10,
                     "num": "010",
                     "name": "Caterpie",
-                    "img": "https://url.com/10.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/010.png"
                 }
             ],
             "next_evolution": [
@@ -839,7 +839,7 @@
                     "id": 12,
                     "num": "012",
                     "name": "Butterfree",
-                    "img": "https://url.com/12.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/012.png"
                 }
             ],
             "max_cp": 509,
@@ -882,7 +882,7 @@
             "id": 12,
             "num": "012",
             "name": "Butterfree",
-            "img": "https://url.com/12.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/012.png",
             "type": {
                 "en": [
                     "Bug",
@@ -908,13 +908,13 @@
                     "id": 10,
                     "num": "010",
                     "name": "Caterpie",
-                    "img": "https://url.com/10.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/010.png"
                 },
                 {
                     "id": 11,
                     "num": "011",
                     "name": "Metapod",
-                    "img": "https://url.com/11.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/011.png"
                 }
             ],
             "next_evolution": [],
@@ -966,7 +966,7 @@
             "id": 13,
             "num": "013",
             "name": "Weedle",
-            "img": "https://url.com/13.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/013.png",
             "type": {
                 "en": [
                     "Bug",
@@ -993,13 +993,13 @@
                     "id": 14,
                     "num": "014",
                     "name": "Kakuna",
-                    "img": "https://url.com/14.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/014.png"
                 },
                 {
                     "id": 15,
                     "num": "015",
                     "name": "Beedrill",
-                    "img": "https://url.com/15.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/015.png"
                 }
             ],
             "max_cp": 515,
@@ -1050,7 +1050,7 @@
             "id": 14,
             "num": "014",
             "name": "Kakuna",
-            "img": "https://url.com/14.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/014.png",
             "type": {
                 "en": [
                     "Bug",
@@ -1076,7 +1076,7 @@
                     "id": 13,
                     "num": "013",
                     "name": "Weedle",
-                    "img": "https://url.com/13.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/013.png"
                 }
             ],
             "next_evolution": [
@@ -1084,7 +1084,7 @@
                     "id": 15,
                     "num": "015",
                     "name": "Beedrill",
-                    "img": "https://url.com/15.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/015.png"
                 }
             ],
             "max_cp": 488,
@@ -1135,7 +1135,7 @@
             "id": 15,
             "num": "015",
             "name": "Beedrill",
-            "img": "https://url.com/15.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/015.png",
             "type": {
                 "en": [
                     "Bug",
@@ -1161,13 +1161,13 @@
                     "id": 13,
                     "num": "013",
                     "name": "Weedle",
-                    "img": "https://url.com/13.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/013.png"
                 },
                 {
                     "id": 14,
                     "num": "014",
                     "name": "Kakuna",
-                    "img": "https://url.com/14.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/014.png"
                 }
             ],
             "next_evolution": [],
@@ -1219,7 +1219,7 @@
             "id": 16,
             "num": "016",
             "name": "Pidgey",
-            "img": "https://url.com/16.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/016.png",
             "type": {
                 "en": [
                     "Normal",
@@ -1246,13 +1246,13 @@
                     "id": 17,
                     "num": "017",
                     "name": "Pidgeotto",
-                    "img": "https://url.com/17.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/017.png"
                 },
                 {
                     "id": 18,
                     "num": "018",
                     "name": "Pidgeot",
-                    "img": "https://url.com/18.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/018.png"
                 }
             ],
             "max_cp": 769,
@@ -1297,7 +1297,7 @@
             "id": 17,
             "num": "017",
             "name": "Pidgeotto",
-            "img": "https://url.com/17.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/017.png",
             "type": {
                 "en": [
                     "Normal",
@@ -1323,7 +1323,7 @@
                     "id": 16,
                     "num": "016",
                     "name": "Pidgey",
-                    "img": "https://url.com/16.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/016.png"
                 }
             ],
             "next_evolution": [
@@ -1331,7 +1331,7 @@
                     "id": 18,
                     "num": "018",
                     "name": "Pidgeot",
-                    "img": "https://url.com/18.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/018.png"
                 }
             ],
             "max_cp": 1350,
@@ -1376,7 +1376,7 @@
             "id": 18,
             "num": "018",
             "name": "Pidgeot",
-            "img": "https://url.com/18.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/018.png",
             "type": {
                 "en": [
                     "Normal",
@@ -1402,13 +1402,13 @@
                     "id": 16,
                     "num": "016",
                     "name": "Pidgey",
-                    "img": "https://url.com/16.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/016.png"
                 },
                 {
                     "id": 17,
                     "num": "017",
                     "name": "Pidgeotto",
-                    "img": "https://url.com/17.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/017.png"
                 }
             ],
             "next_evolution": [],
@@ -1454,7 +1454,7 @@
             "id": 19,
             "num": "019",
             "name": "Rattata",
-            "img": "https://url.com/19.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/019.png",
             "type": {
                 "en": [
                     "Normal"
@@ -1479,7 +1479,7 @@
                     "id": 20,
                     "num": "020",
                     "name": "Raticate",
-                    "img": "https://url.com/20.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/020.png"
                 }
             ],
             "max_cp": 830,
@@ -1514,7 +1514,7 @@
             "id": 20,
             "num": "020",
             "name": "Raticate",
-            "img": "https://url.com/20.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/020.png",
             "type": {
                 "en": [
                     "Normal"
@@ -1538,7 +1538,7 @@
                     "id": 19,
                     "num": "019",
                     "name": "Rattata",
-                    "img": "https://url.com/19.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/019.png"
                 }
             ],
             "next_evolution": [],
@@ -1582,7 +1582,7 @@
             "id": 21,
             "num": "021",
             "name": "Spearow",
-            "img": "https://url.com/21.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/021.png",
             "type": {
                 "en": [
                     "Normal",
@@ -1609,7 +1609,7 @@
                     "id": 22,
                     "num": "022",
                     "name": "Fearow",
-                    "img": "https://url.com/22.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/022.png"
                 }
             ],
             "max_cp": 902,
@@ -1658,7 +1658,7 @@
             "id": 22,
             "num": "022",
             "name": "Fearow",
-            "img": "https://url.com/22.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/022.png",
             "type": {
                 "en": [
                     "Normal",
@@ -1684,7 +1684,7 @@
                     "id": 21,
                     "num": "021",
                     "name": "Spearow",
-                    "img": "https://url.com/21.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/021.png"
                 }
             ],
             "next_evolution": [],
@@ -1730,7 +1730,7 @@
             "id": 23,
             "num": "023",
             "name": "Ekans",
-            "img": "https://url.com/23.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/023.png",
             "type": {
                 "en": [
                     "Poison"
@@ -1755,7 +1755,7 @@
                     "id": 24,
                     "num": "024",
                     "name": "Arbok",
-                    "img": "https://url.com/24.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/024.png"
                 }
             ],
             "max_cp": 1048,
@@ -1800,7 +1800,7 @@
             "id": 24,
             "num": "024",
             "name": "Arbok",
-            "img": "https://url.com/24.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/024.png",
             "type": {
                 "en": [
                     "Poison"
@@ -1824,7 +1824,7 @@
                     "id": 23,
                     "num": "023",
                     "name": "Ekans",
-                    "img": "https://url.com/23.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/023.png"
                 }
             ],
             "next_evolution": [],
@@ -1870,7 +1870,7 @@
             "id": 25,
             "num": "025",
             "name": "Pikachu",
-            "img": "https://url.com/25.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/025.png",
             "type": {
                 "en": [
                     "Electric"
@@ -1895,7 +1895,7 @@
                     "id": 26,
                     "num": "026",
                     "name": "Raichu",
-                    "img": "https://url.com/26.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/026.png"
                 }
             ],
             "max_cp": 1060,
@@ -1934,7 +1934,7 @@
             "id": 26,
             "num": "026",
             "name": "Raichu",
-            "img": "https://url.com/26.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/026.png",
             "type": {
                 "en": [
                     "Electric"
@@ -1958,7 +1958,7 @@
                     "id": 25,
                     "num": "025",
                     "name": "Pikachu",
-                    "img": "https://url.com/25.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/025.png"
                 }
             ],
             "next_evolution": [],
@@ -1998,7 +1998,7 @@
             "id": 27,
             "num": "027",
             "name": "Sandshrew",
-            "img": "https://url.com/27.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/027.png",
             "type": {
                 "en": [
                     "Ground"
@@ -2023,7 +2023,7 @@
                     "id": 28,
                     "num": "028",
                     "name": "Sandslash",
-                    "img": "https://url.com/28.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/028.png"
                 }
             ],
             "max_cp": 1426,
@@ -2066,7 +2066,7 @@
             "id": 28,
             "num": "028",
             "name": "Sandslash",
-            "img": "https://url.com/28.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/028.png",
             "type": {
                 "en": [
                     "Ground"
@@ -2090,7 +2090,7 @@
                     "id": 27,
                     "num": "027",
                     "name": "Sandshrew",
-                    "img": "https://url.com/27.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/027.png"
                 }
             ],
             "next_evolution": [],
@@ -2136,7 +2136,7 @@
             "id": 29,
             "num": "029",
             "name": "Nidoran♀",
-            "img": "https://url.com/29.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png",
             "type": {
                 "en": [
                     "Poison"
@@ -2161,13 +2161,13 @@
                     "id": 30,
                     "num": "030",
                     "name": "Nidorina",
-                    "img": "https://url.com/30.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/030.png"
                 },
                 {
                     "id": 31,
                     "num": "031",
                     "name": "Nidoqueen",
-                    "img": "https://url.com/31.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/031.png"
                 }
             ],
             "max_cp": 922,
@@ -2212,7 +2212,7 @@
             "id": 30,
             "num": "030",
             "name": "Nidorina",
-            "img": "https://url.com/30.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/030.png",
             "type": {
                 "en": [
                     "Poison"
@@ -2236,7 +2236,7 @@
                     "id": 29,
                     "num": "029",
                     "name": "Nidoran♀",
-                    "img": "https://url.com/29.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png"
                 }
             ],
             "next_evolution": [
@@ -2244,7 +2244,7 @@
                     "id": 31,
                     "num": "031",
                     "name": "Nidoqueen",
-                    "img": "https://url.com/31.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/031.png"
                 }
             ],
             "max_cp": 1480,
@@ -2289,7 +2289,7 @@
             "id": 31,
             "num": "031",
             "name": "Nidoqueen",
-            "img": "https://url.com/31.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/031.png",
             "type": {
                 "en": [
                     "Poison",
@@ -2315,13 +2315,13 @@
                     "id": 29,
                     "num": "029",
                     "name": "Nidoran♀",
-                    "img": "https://url.com/29.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png"
                 },
                 {
                     "id": 30,
                     "num": "030",
                     "name": "Nidorina",
-                    "img": "https://url.com/30.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/030.png"
                 }
             ],
             "next_evolution": [],
@@ -2375,7 +2375,7 @@
             "id": 32,
             "num": "032",
             "name": "Nidoran♂",
-            "img": "https://url.com/32.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png",
             "type": {
                 "en": [
                     "Poison"
@@ -2400,13 +2400,13 @@
                     "id": 33,
                     "num": "033",
                     "name": "Nidorino",
-                    "img": "https://url.com/33.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/033.png"
                 },
                 {
                     "id": 34,
                     "num": "034",
                     "name": "Nidoking",
-                    "img": "https://url.com/34.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/034.png"
                 }
             ],
             "max_cp": 973,
@@ -2451,7 +2451,7 @@
             "id": 33,
             "num": "033",
             "name": "Nidorino",
-            "img": "https://url.com/33.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/033.png",
             "type": {
                 "en": [
                     "Poison"
@@ -2475,7 +2475,7 @@
                     "id": 32,
                     "num": "032",
                     "name": "Nidoran♂",
-                    "img": "https://url.com/32.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png"
                 }
             ],
             "next_evolution": [
@@ -2483,7 +2483,7 @@
                     "id": 34,
                     "num": "034",
                     "name": "Nidoking",
-                    "img": "https://url.com/34.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/034.png"
                 }
             ],
             "max_cp": 1575,
@@ -2528,7 +2528,7 @@
             "id": 34,
             "num": "034",
             "name": "Nidoking",
-            "img": "https://url.com/34.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/034.png",
             "type": {
                 "en": [
                     "Poison",
@@ -2554,13 +2554,13 @@
                     "id": 32,
                     "num": "032",
                     "name": "Nidoran♂",
-                    "img": "https://url.com/32.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png"
                 },
                 {
                     "id": 33,
                     "num": "033",
                     "name": "Nidorino",
-                    "img": "https://url.com/33.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/033.png"
                 }
             ],
             "next_evolution": [],
@@ -2614,7 +2614,7 @@
             "id": 35,
             "num": "035",
             "name": "Clefairy",
-            "img": "https://url.com/35.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/035.png",
             "type": {
                 "en": [
                     "Fairy"
@@ -2639,7 +2639,7 @@
                     "id": 36,
                     "num": "036",
                     "name": "Clefable",
-                    "img": "https://url.com/36.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/036.png"
                 }
             ],
             "max_cp": 1306,
@@ -2684,7 +2684,7 @@
             "id": 36,
             "num": "036",
             "name": "Clefable",
-            "img": "https://url.com/36.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/036.png",
             "type": {
                 "en": [
                     "Fairy"
@@ -2708,7 +2708,7 @@
                     "id": 35,
                     "num": "035",
                     "name": "Clefairy",
-                    "img": "https://url.com/35.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/035.png"
                 }
             ],
             "next_evolution": [],
@@ -2752,7 +2752,7 @@
             "id": 37,
             "num": "037",
             "name": "Vulpix",
-            "img": "https://url.com/37.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/037.png",
             "type": {
                 "en": [
                     "Fire"
@@ -2777,7 +2777,7 @@
                     "id": 38,
                     "num": "038",
                     "name": "Ninetales",
-                    "img": "https://url.com/38.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/038.png"
                 }
             ],
             "max_cp": 998,
@@ -2830,7 +2830,7 @@
             "id": 38,
             "num": "038",
             "name": "Ninetales",
-            "img": "https://url.com/38.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/038.png",
             "type": {
                 "en": [
                     "Fire"
@@ -2854,7 +2854,7 @@
                     "id": 37,
                     "num": "037",
                     "name": "Vulpix",
-                    "img": "https://url.com/37.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/037.png"
                 }
             ],
             "next_evolution": [],
@@ -2904,7 +2904,7 @@
             "id": 39,
             "num": "039",
             "name": "Jigglypuff",
-            "img": "https://url.com/39.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/039.png",
             "type": {
                 "en": [
                     "Fairy"
@@ -2929,7 +2929,7 @@
                     "id": 40,
                     "num": "040",
                     "name": "Wigglytuff",
-                    "img": "https://url.com/40.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/040.png"
                 }
             ],
             "max_cp": 818,
@@ -2976,7 +2976,7 @@
             "id": 40,
             "num": "040",
             "name": "Wigglytuff",
-            "img": "https://url.com/40.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/040.png",
             "type": {
                 "en": [
                     "Fairy"
@@ -3000,7 +3000,7 @@
                     "id": 39,
                     "num": "039",
                     "name": "Jigglypuff",
-                    "img": "https://url.com/39.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/039.png"
                 }
             ],
             "next_evolution": [],
@@ -3048,7 +3048,7 @@
             "id": 41,
             "num": "041",
             "name": "Zubat",
-            "img": "https://url.com/41.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/041.png",
             "type": {
                 "en": [
                     "Poison",
@@ -3075,7 +3075,7 @@
                     "id": 42,
                     "num": "042",
                     "name": "Golbat",
-                    "img": "https://url.com/42.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/042.png"
                 }
             ],
             "max_cp": 754,
@@ -3126,7 +3126,7 @@
             "id": 42,
             "num": "042",
             "name": "Golbat",
-            "img": "https://url.com/42.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/042.png",
             "type": {
                 "en": [
                     "Poison",
@@ -3152,7 +3152,7 @@
                     "id": 41,
                     "num": "041",
                     "name": "Zubat",
-                    "img": "https://url.com/41.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/041.png"
                 }
             ],
             "next_evolution": [],
@@ -3204,7 +3204,7 @@
             "id": 43,
             "num": "043",
             "name": "Oddish",
-            "img": "https://url.com/43.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/043.png",
             "type": {
                 "en": [
                     "Grass",
@@ -3231,13 +3231,13 @@
                     "id": 44,
                     "num": "044",
                     "name": "Gloom",
-                    "img": "https://url.com/44.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/044.png"
                 },
                 {
                     "id": 45,
                     "num": "045",
                     "name": "Vileplume",
-                    "img": "https://url.com/45.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/045.png"
                 }
             ],
             "max_cp": 1389,
@@ -3288,7 +3288,7 @@
             "id": 44,
             "num": "044",
             "name": "Gloom",
-            "img": "https://url.com/44.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/044.png",
             "type": {
                 "en": [
                     "Grass",
@@ -3314,7 +3314,7 @@
                     "id": 43,
                     "num": "043",
                     "name": "Oddish",
-                    "img": "https://url.com/43.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/043.png"
                 }
             ],
             "next_evolution": [
@@ -3322,7 +3322,7 @@
                     "id": 45,
                     "num": "045",
                     "name": "Vileplume",
-                    "img": "https://url.com/45.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/045.png"
                 }
             ],
             "max_cp": 1900,
@@ -3373,7 +3373,7 @@
             "id": 45,
             "num": "045",
             "name": "Vileplume",
-            "img": "https://url.com/45.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/045.png",
             "type": {
                 "en": [
                     "Grass",
@@ -3399,13 +3399,13 @@
                     "id": 43,
                     "num": "043",
                     "name": "Oddish",
-                    "img": "https://url.com/43.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/043.png"
                 },
                 {
                     "id": 44,
                     "num": "044",
                     "name": "Gloom",
-                    "img": "https://url.com/44.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/044.png"
                 }
             ],
             "next_evolution": [],
@@ -3455,7 +3455,7 @@
             "id": 46,
             "num": "046",
             "name": "Paras",
-            "img": "https://url.com/46.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/046.png",
             "type": {
                 "en": [
                     "Bug",
@@ -3482,7 +3482,7 @@
                     "id": 47,
                     "num": "047",
                     "name": "Parasect",
-                    "img": "https://url.com/47.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/047.png"
                 }
             ],
             "max_cp": 1150,
@@ -3535,7 +3535,7 @@
             "id": 47,
             "num": "047",
             "name": "Parasect",
-            "img": "https://url.com/47.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/047.png",
             "type": {
                 "en": [
                     "Bug",
@@ -3561,7 +3561,7 @@
                     "id": 46,
                     "num": "046",
                     "name": "Paras",
-                    "img": "https://url.com/46.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/046.png"
                 }
             ],
             "next_evolution": [],
@@ -3617,7 +3617,7 @@
             "id": 48,
             "num": "048",
             "name": "Venonat",
-            "img": "https://url.com/48.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/048.png",
             "type": {
                 "en": [
                     "Bug",
@@ -3644,7 +3644,7 @@
                     "id": 49,
                     "num": "049",
                     "name": "Venomoth",
-                    "img": "https://url.com/49.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/049.png"
                 }
             ],
             "max_cp": 1135,
@@ -3695,7 +3695,7 @@
             "id": 49,
             "num": "049",
             "name": "Venomoth",
-            "img": "https://url.com/49.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/049.png",
             "type": {
                 "en": [
                     "Bug",
@@ -3721,7 +3721,7 @@
                     "id": 48,
                     "num": "048",
                     "name": "Venonat",
-                    "img": "https://url.com/48.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/048.png"
                 }
             ],
             "next_evolution": [],
@@ -3773,7 +3773,7 @@
             "id": 50,
             "num": "050",
             "name": "Diglett",
-            "img": "https://url.com/50.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/050.png",
             "type": {
                 "en": [
                     "Ground"
@@ -3798,7 +3798,7 @@
                     "id": 51,
                     "num": "051",
                     "name": "Dugtrio",
-                    "img": "https://url.com/51.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/051.png"
                 }
             ],
             "max_cp": 764,
@@ -3841,7 +3841,7 @@
             "id": 51,
             "num": "051",
             "name": "Dugtrio",
-            "img": "https://url.com/51.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/051.png",
             "type": {
                 "en": [
                     "Ground"
@@ -3865,7 +3865,7 @@
                     "id": 50,
                     "num": "050",
                     "name": "Diglett",
-                    "img": "https://url.com/50.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/050.png"
                 }
             ],
             "next_evolution": [],
@@ -3909,7 +3909,7 @@
             "id": 52,
             "num": "052",
             "name": "Meowth",
-            "img": "https://url.com/52.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/052.png",
             "type": {
                 "en": [
                     "Normal"
@@ -3934,7 +3934,7 @@
                     "id": 53,
                     "num": "053",
                     "name": "Persian",
-                    "img": "https://url.com/53.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/053.png"
                 }
             ],
             "max_cp": 846,
@@ -3969,7 +3969,7 @@
             "id": 53,
             "num": "053",
             "name": "Persian",
-            "img": "https://url.com/53.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/053.png",
             "type": {
                 "en": [
                     "Normal"
@@ -3993,7 +3993,7 @@
                     "id": 52,
                     "num": "052",
                     "name": "Meowth",
-                    "img": "https://url.com/52.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/052.png"
                 }
             ],
             "next_evolution": [],
@@ -4031,7 +4031,7 @@
             "id": 54,
             "num": "054",
             "name": "Psyduck",
-            "img": "https://url.com/54.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/054.png",
             "type": {
                 "en": [
                     "Water"
@@ -4056,7 +4056,7 @@
                     "id": 55,
                     "num": "055",
                     "name": "Golduck",
-                    "img": "https://url.com/55.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/055.png"
                 }
             ],
             "max_cp": 1250,
@@ -4101,7 +4101,7 @@
             "id": 55,
             "num": "055",
             "name": "Golduck",
-            "img": "https://url.com/55.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/055.png",
             "type": {
                 "en": [
                     "Water"
@@ -4125,7 +4125,7 @@
                     "id": 54,
                     "num": "054",
                     "name": "Psyduck",
-                    "img": "https://url.com/54.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/054.png"
                 }
             ],
             "next_evolution": [],
@@ -4171,7 +4171,7 @@
             "id": 56,
             "num": "056",
             "name": "Mankey",
-            "img": "https://url.com/56.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/056.png",
             "type": {
                 "en": [
                     "Fighting"
@@ -4196,7 +4196,7 @@
                     "id": 57,
                     "num": "057",
                     "name": "Primeape",
-                    "img": "https://url.com/57.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/057.png"
                 }
             ],
             "max_cp": 1317,
@@ -4239,7 +4239,7 @@
             "id": 57,
             "num": "057",
             "name": "Primeape",
-            "img": "https://url.com/57.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/057.png",
             "type": {
                 "en": [
                     "Fighting"
@@ -4263,7 +4263,7 @@
                     "id": 56,
                     "num": "056",
                     "name": "Mankey",
-                    "img": "https://url.com/56.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/056.png"
                 }
             ],
             "next_evolution": [],
@@ -4307,7 +4307,7 @@
             "id": 58,
             "num": "058",
             "name": "Growlithe",
-            "img": "https://url.com/58.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/058.png",
             "type": {
                 "en": [
                     "Fire"
@@ -4332,7 +4332,7 @@
                     "id": 59,
                     "num": "059",
                     "name": "Arcanine",
-                    "img": "https://url.com/59.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/059.png"
                 }
             ],
             "max_cp": 1405,
@@ -4381,7 +4381,7 @@
             "id": 59,
             "num": "059",
             "name": "Arcanine",
-            "img": "https://url.com/59.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/059.png",
             "type": {
                 "en": [
                     "Fire"
@@ -4405,7 +4405,7 @@
                     "id": 58,
                     "num": "058",
                     "name": "Growlithe",
-                    "img": "https://url.com/58.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/058.png"
                 }
             ],
             "next_evolution": [],
@@ -4455,7 +4455,7 @@
             "id": 60,
             "num": "060",
             "name": "Poliwag",
-            "img": "https://url.com/60.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/060.png",
             "type": {
                 "en": [
                     "Water"
@@ -4480,13 +4480,13 @@
                     "id": 61,
                     "num": "061",
                     "name": "Poliwhirl",
-                    "img": "https://url.com/61.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/061.png"
                 },
                 {
                     "id": 62,
                     "num": "062",
                     "name": "Poliwrath",
-                    "img": "https://url.com/62.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/062.png"
                 }
             ],
             "max_cp": 937,
@@ -4529,7 +4529,7 @@
             "id": 61,
             "num": "061",
             "name": "Poliwhirl",
-            "img": "https://url.com/61.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/061.png",
             "type": {
                 "en": [
                     "Water"
@@ -4553,7 +4553,7 @@
                     "id": 60,
                     "num": "060",
                     "name": "Poliwag",
-                    "img": "https://url.com/60.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/060.png"
                 }
             ],
             "next_evolution": [
@@ -4561,7 +4561,7 @@
                     "id": 62,
                     "num": "062",
                     "name": "Poliwrath",
-                    "img": "https://url.com/62.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/062.png"
                 }
             ],
             "max_cp": 1604,
@@ -4604,7 +4604,7 @@
             "id": 62,
             "num": "062",
             "name": "Poliwrath",
-            "img": "https://url.com/62.png",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/062.png",
             "type": {
                 "en": [
                     "Water",
@@ -4630,13 +4630,13 @@
                     "id": 60,
                     "num": "060",
                     "name": "Poliwag",
-                    "img": "https://url.com/60.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/060.png"
                 },
                 {
                     "id": 61,
                     "num": "061",
                     "name": "Poliwhirl",
-                    "img": "https://url.com/61.png"
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/061.png"
                 }
             ],
             "next_evolution": [],
