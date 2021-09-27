@@ -4687,6 +4687,2727 @@
                     "Soco Dinâmico"
                 ]
             }
+        },
+        {
+            "id": 63,
+            "num": "063",
+            "name": "Abra",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/063.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 195,
+            "sta": 93,
+            "def": 82,
+            "generation": 1,
+            "description": {
+                "en": "Abra sleeps for 18 hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
+                "pt_br": "Abra dorme 18 horas por dia. No entanto, ele pode sentir a presença de inimigos mesmo enquanto está dormindo. Em tal situação, este Pokémon se teletransporta imediatamente para um local seguro."
+            },
+            "weight": 19.5,
+            "height": 0.9,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 64,
+                    "num": "064",
+                    "name": "Kadabra",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/064.png"
+                },
+                {
+                    "id": 65,
+                    "num": "065",
+                    "name": "Alakazam",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/065.png"
+                }
+            ],
+            "max_cp": 1517,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Zen Headbutt",
+                    "Shadow Ball"
+                ],
+                "pt_br": [
+                    "Cabeça de Vento",
+                    "Bola de Sombra"
+                ]
+            }
+        },
+        {
+            "id": 64,
+            "num": "064",
+            "name": "Kadabra",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/064.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 232,
+            "sta": 120,
+            "def": 117,
+            "generation": 1,
+            "description": {
+                "en": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
+                "pt_br": "Kadabra emite uma onda alfa peculiar se desenvolver uma dor de cabeça. Apenas aquelas pessoas com uma psique particularmente forte podem esperar se tornar um Treinador desse Pokémon."
+            },
+            "weight": 56.5,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 63,
+                    "num": "063",
+                    "name": "Abra",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/063.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 65,
+                    "num": "065",
+                    "name": "Alakazam",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/065.png"
+                }
+            ],
+            "max_cp": 2328,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Shadow Ball"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Bola de Sombra"
+                ]
+            }
+        },
+        {
+            "id": 65,
+            "num": "065",
+            "name": "Alakazam",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/065.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 271,
+            "sta": 146,
+            "def": 167,
+            "generation": 1,
+            "description": {
+                "en": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+                "pt_br": "O cérebro de Alakazam cresce continuamente, tornando sua cabeça muito pesada para ser sustentada pelo pescoço. Este Pokémon mantém a cabeça erguida usando seu poder psicocinético."
+            },
+            "weight": 48.0,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 63,
+                    "num": "063",
+                    "name": "Abra",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/063.png"
+                },
+                {
+                    "id": 64,
+                    "num": "064",
+                    "name": "Kadabra",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/064.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3456,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 66,
+            "num": "066",
+            "name": "Machop",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/066.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 137,
+            "sta": 172,
+            "def": 82,
+            "generation": 1,
+            "description": {
+                "en": "Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+                "pt_br": "Os músculos de Machop são especiais - eles nunca ficam doloridos, não importa o quanto sejam usados em exercícios. Este Pokémon tem poder suficiente para lançar cem humanos adultos."
+            },
+            "weight": 19.5,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 67,
+                    "num": "067",
+                    "name": "Machoke",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/067.png"
+                },
+                {
+                    "id": 68,
+                    "num": "068",
+                    "name": "Machamp",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/068.png"
+                }
+            ],
+            "max_cp": 1445,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Karate Chop",
+                    "Rock Smash",
+                    "Cross Chop"
+                ],
+                "pt_br": [
+                    "Golpe de Caratê",
+                    "Quebra de Pedra",
+                    "Costeleta Cruzada"
+                ]
+            }
+        },
+        {
+            "id": 67,
+            "num": "067",
+            "name": "Machoke",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/067.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 177,
+            "sta": 190,
+            "def": 125,
+            "generation": 1,
+            "description": {
+                "en": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+                "pt_br": "Os músculos perfeitamente tonificados de Machoke possuem a dureza do aço. Este Pokémon tem tanta força que pode facilmente segurar um lutador de sumô com apenas um dedo."
+            },
+            "weight": 70.5,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 66,
+                    "num": "066",
+                    "name": "Machop",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/066.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 68,
+                    "num": "068",
+                    "name": "Machamp",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/068.png"
+                }
+            ],
+            "max_cp": 2296,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Karate Chop",
+                    "Dynamic Punch"
+                ],
+                "pt_br": [
+                    "Golpe de Caratê",
+                    "Soco Dinâmico"
+                ]
+            }
+        },
+        {
+            "id": 68,
+            "num": "068",
+            "name": "Machamp",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/068.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 234,
+            "sta": 207,
+            "def": 159,
+            "generation": 1,
+            "description": {
+                "en": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
+                "pt_br": "Machamp tem o poder de jogar tudo de lado. No entanto, tentar fazer qualquer trabalho que requeira cuidado e destreza faz com que seus braços fiquem emaranhados. Este Pokémon tende a entrar em ação antes de pensar."
+            },
+            "weight": 130.0,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 66,
+                    "num": "066",
+                    "name": "Machop",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/066.png"
+                },
+                {
+                    "id": 67,
+                    "num": "067",
+                    "name": "Machoke",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/067.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3455,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Counter",
+                    "Dynamic Punch"
+                ],
+                "pt_br": [
+                    "Contra-atacar",
+                    "Soco Dinâmico"
+                ]
+            }
+        },
+        {
+            "id": 69,
+            "num": "069",
+            "name": "Bellsprout",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/069.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 139,
+            "sta": 137,
+            "def": 61,
+            "generation": 1,
+            "description": {
+                "en": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
+                "pt_br": "O corpo fino e flexível de Bellsprout permite que ele se curve e balance para evitar qualquer ataque, por mais forte que seja. De sua boca, este Pokémon cospe um fluido corrosivo que derrete até mesmo o ferro."
+            },
+            "weight": 4.0,
+            "height": 0.7,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 70,
+                    "num": "070",
+                    "name": "Weepinbell",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/070.png"
+                },
+                {
+                    "id": 71,
+                    "num": "071",
+                    "name": "Victreebel",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/071.png"
+                }
+            ],
+            "max_cp": 1168,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Electric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Vine Whip",
+                    "Power Whip",
+                    "Acid"
+                ],
+                "pt_br": [
+                    "Chicote de Videira",
+                    "Chicote de Poder",
+                    "Ácido"
+                ]
+            }
+        },
+        {
+            "id": 70,
+            "num": "070",
+            "name": "Weepinbell",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/070.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 172,
+            "sta": 163,
+            "def": 92,
+            "generation": 1,
+            "description": {
+                "en": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+                "pt_br": "Weepinbell tem um grande gancho em sua extremidade traseira. À noite, o Pokémon se engancha em um galho de árvore e vai dormir. Se ele se mover durante o sono, pode acordar e se encontrar no chão."
+            },
+            "weight": 6.4,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 69,
+                    "num": "069",
+                    "name": "Bellsprout",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/069.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 71,
+                    "num": "071",
+                    "name": "Victreebel",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/071.png"
+                }
+            ],
+            "max_cp": 1822,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Electric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Acid",
+                    "Power Whip",
+                    "Bullet Seed"
+                ],
+                "pt_br": [
+                    "Ácido",
+                    "Chicote de Poder",
+                    "Semente de Bala"
+                ]
+            }
+        },
+        {
+            "id": 71,
+            "num": "071",
+            "name": "Victreebel",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/071.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Veneno"
+                ]
+            },
+            "atk": 207,
+            "sta": 190,
+            "def": 135,
+            "generation": 1,
+            "description": {
+                "en": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+                "pt_br": "Victreebel possui uma longa trepadeira que se estende desde sua cabeça. Esta videira é agitada e agitada como se fosse um animal para atrair a presa. Quando uma presa desavisada se aproxima, este Pokémon a engole inteira."
+            },
+            "weight": 15.5,
+            "height": 1.7,
+            "pre_evolution": [
+                {
+                    "id": 69,
+                    "num": "069",
+                    "name": "Bellsprout",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/069.png"
+                },
+                {
+                    "id": 70,
+                    "num": "070",
+                    "name": "Weepinbell",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/070.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2748,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Water",
+                    "Electric",
+                    "Fairy",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Água",
+                    "Elétrico",
+                    "Fada",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Fire",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Fogo",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Razor Leaf",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Folha Navalha",
+                    "Feixe Solar"
+                ]
+            }
+        },
+        {
+            "id": 72,
+            "num": "072",
+            "name": "Tentacool",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/072.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Veneno"
+                ]
+            },
+            "atk": 97,
+            "sta": 120,
+            "def": 149,
+            "generation": 1,
+            "description": {
+                "en": "Tentacool body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
+                "pt_br": "O corpo do Tentacool é amplamente composto por água. Se for retirado do mar, seca como um pergaminho. Se esse Pokémon ficar desidratado, coloque-o de volta no mar."
+            },
+            "weight": 45.5,
+            "height": 0.9,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 73,
+                    "num": "073",
+                    "name": "Tentacruel",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/073.png"
+                }
+            ],
+            "max_cp": 1176,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Electric",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Elétrico",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Bubble Beam",
+                    "Water Pulse"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Feixe de Bolha",
+                    "Pulso de Água"
+                ]
+            }
+        },
+        {
+            "id": 73,
+            "num": "073",
+            "name": "Tentacruel",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/073.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Veneno"
+                ]
+            },
+            "atk": 166,
+            "sta": 190,
+            "def": 209,
+            "generation": 1,
+            "description": {
+                "en": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
+                "pt_br": "Tentacruel tem grandes orbes vermelhas em sua cabeça. As esferas brilham antes de atingir a vizinhança com uma forte explosão ultrassônica. A explosão deste Pokémon cria ondas violentas ao seu redor."
+            },
+            "weight": 55.0,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 72,
+                    "num": "072",
+                    "name": "Tentacool",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/072.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2738,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Electric",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Elétrico",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Hydro Pump"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Bomba de Hidro"
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "num": "074",
+            "name": "Geodude",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/074.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Terrestre"
+                ]
+            },
+            "atk": 132,
+            "sta": 120,
+            "def": 132,
+            "generation": 1,
+            "description": {
+                "en": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
+                "pt_br": "Quanto mais tempo de vida um Geodude, mais suas bordas são lascadas e gastas, tornando-o mais arredondado na aparência. No entanto, o coração deste Pokémon permanecerá duro, áspero e áspero sempre."
+            },
+            "weight": 20.0,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 75,
+                    "num": "075",
+                    "name": "Graveler",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/075.png"
+                },
+                {
+                    "id": 76,
+                    "num": "076",
+                    "name": "Golem",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/076.png"
+                }
+            ],
+            "max_cp": 1462,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Rock Throw",
+                    "Rock Slide"
+                ],
+                "pt_br": [
+                    "Lance de Pedra",
+                    "Deslizamento de Rocha"
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "num": "075",
+            "name": "Graveler",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/075.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Terrestre"
+                ]
+            },
+            "atk": 164,
+            "sta": 146,
+            "def": 164,
+            "generation": 1,
+            "description": {
+                "en": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
+                "pt_br": "Graveler cresce se alimentando de pedras. Aparentemente, ele prefere comer pedras cobertas de musgo. Este Pokémon se alimenta de uma tonelada de pedras diariamente."
+            },
+            "weight": 105.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 74,
+                    "num": "074",
+                    "name": "Geodude",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/074.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 76,
+                    "num": "076",
+                    "name": "Golem",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/076.png"
+                }
+            ],
+            "max_cp": 2145,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Rock Throw",
+                    "Rock Slide",
+                    "Mud-Slap",
+                    "Dig"
+                ],
+                "pt_br": [
+                    "Lance de Pedra",
+                    "Deslizamento de Rocha",
+                    "Tapa de Lama",
+                    "Escavação"
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "num": "076",
+            "name": "Golem",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/076.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Terrestre"
+                ]
+            },
+            "atk": 211,
+            "sta": 190,
+            "def": 198,
+            "generation": 1,
+            "description": {
+                "en": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
+                "pt_br": "Golem vive nas montanhas. Se houver um grande terremoto, esses Pokémon descerão rolando das montanhas em massa até o sopé abaixo."
+            },
+            "weight": 300.0,
+            "height": 1.4,
+            "pre_evolution": [
+                {
+                    "id": 74,
+                    "num": "074",
+                    "name": "Geodude",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/074.png"
+                },
+                {
+                    "id": 75,
+                    "num": "075",
+                    "name": "Graveler",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/075.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3334,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Earthquake"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Terremoto"
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "num": "077",
+            "name": "Ponyta",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/077.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 170,
+            "sta": 137,
+            "def": 127,
+            "generation": 1,
+            "description": {
+                "en": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+                "pt_br": "Ponyta é muito fraco ao nascer. Ele mal consegue se levantar. Este Pokémon se torna mais forte ao tropeçar e cair para acompanhar seu pai."
+            },
+            "weight": 30.0,
+            "height": 1.0,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 78,
+                    "num": "078",
+                    "name": "Rapidash",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/078.png"
+                }
+            ],
+            "max_cp": 1919,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Ember",
+                    "Fire Blast",
+                    "Flame Charge"
+                ],
+                "pt_br": [
+                    "Brasa",
+                    "Explosão de Fogo",
+                    "Carga de Fogo"
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "num": "078",
+            "name": "Rapidash",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/078.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 207,
+            "sta": 163,
+            "def": 162,
+            "generation": 1,
+            "description": {
+                "en": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+                "pt_br": "Rapidash geralmente pode ser visto galopando casualmente nos campos e planícies. No entanto, quando este Pokémon fica sério, suas crinas ígneas brilham enquanto ele galopa a 150 mph."
+            },
+            "weight": 95.0,
+            "height": 1.7,
+            "pre_evolution": [
+                {
+                    "id": 77,
+                    "num": "077",
+                    "name": "Ponyta",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/077.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2782,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Spin",
+                    "Fire Blast",
+                    "Incinerate"
+                ],
+                "pt_br": [
+                    "Rotação de Fogo",
+                    "Explosão de Fogo",
+                    "Incinerar"
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "num": "079",
+            "name": "Slowpoke",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/079.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Psíquico"
+                ]
+            },
+            "atk": 109,
+            "sta": 207,
+            "def": 98,
+            "generation": 1,
+            "description": {
+                "en": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
+                "pt_br": "Slowpoke usa sua cauda para capturar a presa, mergulhando-a na água na margem de um rio. No entanto, esse Pokémon geralmente esquece o que está fazendo e costuma passar dias inteiros vagando à beira da água."
+            },
+            "weight": 36.0,
+            "height": 1.2,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 80,
+                    "num": "080",
+                    "name": "Slowbro",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/080.png"
+                }
+            ],
+            "max_cp": 1386,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Grass",
+                    "Electric",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Planta",
+                    "Elétrico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "num": "080",
+            "name": "Slowbro",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/080.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Psíquico"
+                ]
+            },
+            "atk": 177,
+            "sta": 216,
+            "def": 180,
+            "generation": 1,
+            "description": {
+                "en": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+                "pt_br": "A cauda de Slowbro tem um Shellder firmemente preso com uma mordida. Como resultado, a cauda não pode mais ser usada para pesca. Isso faz com que Slowbro nade a contragosto e pegue suas presas."
+            },
+            "weight": 78.5,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 79,
+                    "num": "079",
+                    "name": "Slowpoke",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/079.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2877,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Grass",
+                    "Electric",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Planta",
+                    "Elétrico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "num": "081",
+            "name": "Magnemite",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/081.png",
+            "type": {
+                "en": [
+                    "Electric",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Aço"
+                ]
+            },
+            "atk": 165,
+            "sta": 93,
+            "def": 121,
+            "generation": 1,
+            "description": {
+                "en": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+                "pt_br": "Magnemite se liga a linhas de força para se alimentar de eletricidade. Se sua casa estiver sem energia, verifique os disjuntores. Você pode encontrar um grande número desse Pokémon agarrado à caixa do disjuntor."
+            },
+            "weight": 6.0,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 82,
+                    "num": "082",
+                    "name": "Magneton",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/082.png"
+                }
+            ],
+            "max_cp": 1540,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Rock",
+                    "Bug",
+                    "Grass",
+                    "Electric",
+                    "Psychic",
+                    "Ice",
+                    "Dragon",
+                    "Fairy",
+                    "Flying",
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Pedra",
+                    "Inseto",
+                    "Planta",
+                    "Elétrico",
+                    "Psíquico",
+                    "Gelo",
+                    "Dragão",
+                    "Fada",
+                    "Voador",
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Fighting",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Lutador",
+                    "Fogo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Thunder Shock",
+                    "Thunderbolt",
+                    "Magnet Bomb"
+                ],
+                "pt_br": [
+                    "Choque do Trovão",
+                    "Raio",
+                    "Bomba Magnética"
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "num": "082",
+            "name": "Magneton",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/082.png",
+            "type": {
+                "en": [
+                    "Electric",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Aço"
+                ]
+            },
+            "atk": 223,
+            "sta": 137,
+            "def": 169,
+            "generation": 1,
+            "description": {
+                "en": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+                "pt_br": "O magneton emite uma força magnética poderosa que é fatal para dispositivos mecânicos. Como resultado, grandes cidades soam sirenes para alertar os cidadãos sobre surtos em grande escala deste Pokémon."
+            },
+            "weight": 60.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 81,
+                    "num": "081",
+                    "name": "Magnemite",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/081.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2810,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Rock",
+                    "Bug",
+                    "Grass",
+                    "Electric",
+                    "Psychic",
+                    "Ice",
+                    "Dragon",
+                    "Fairy",
+                    "Flying",
+                    "Poison",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Pedra",
+                    "Inseto",
+                    "Planta",
+                    "Elétrico",
+                    "Psíquico",
+                    "Gelo",
+                    "Dragão",
+                    "Fada",
+                    "Voador",
+                    "Veneno",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Fighting",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Lutador",
+                    "Fogo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Spark",
+                    "Zap Cannon",
+                    "Charge Beam",
+                    "Magnet Bomb"
+                ],
+                "pt_br": [
+                    "Fagulha",
+                    "Tiro de Canhão",
+                    "Feixe de Carga",
+                    "Bomba Magnética"
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "num": "083",
+            "name": "Farfetch'd",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/083.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 124,
+            "sta": 141,
+            "def": 115,
+            "generation": 1,
+            "description": {
+                "en": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+                "pt_br": "Farfetch'd é sempre visto com um caule de algum tipo de planta. Aparentemente, existem caules bons e caules ruins. Este Pokémon é conhecido por lutar com outros por caules."
+            },
+            "weight": 15.0,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 1397,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Air Slash",
+                    "Leaf Blade"
+                ],
+                "pt_br": [
+                    "Golpe de Ar",
+                    "Lâmina de Folha"
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "num": "084",
+            "name": "Doduo",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/084.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 158,
+            "sta": 111,
+            "def": 83,
+            "generation": 1,
+            "description": {
+                "en": "Doduo two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+                "pt_br": "As duas cabeças de Doduo nunca dormem ao mesmo tempo. Suas duas cabeças se revezam para dormir, então uma cabeça pode sempre vigiar os inimigos enquanto a outra dorme."
+            },
+            "weight": 39.2,
+            "height": 1.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 85,
+                    "num": "085",
+                    "name": "Dodrio",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/085.png"
+                }
+            ],
+            "max_cp": 1357,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Brave Bird",
+                    "Peck",
+                    "Drill Peck"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Pássaro Valente",
+                    "Picada",
+                    "Broca Bicada"
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "num": "085",
+            "name": "Dodrio",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/085.png",
+            "type": {
+                "en": [
+                    "Normal",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador"
+                ]
+            },
+            "atk": 218,
+            "sta": 155,
+            "def": 140,
+            "generation": 1,
+            "description": {
+                "en": "Watch out if Dodrio three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you.",
+                "pt_br": "Cuidado se as três cabeças de Dodrio estão olhando em três direções diferentes. É um sinal claro de que está em guarda. Não chegue perto deste Pokémon se ele estiver desconfiado - ele pode decidir dar um selinho em você."
+            },
+            "weight": 85.2,
+            "height": 1.8,
+            "pre_evolution": [
+                {
+                    "id": 84,
+                    "num": "084",
+                    "name": "Doduo",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/084.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2670,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground",
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre",
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Steel Wing",
+                    "Brave Bird",
+                    "Feint Attack",
+                    "Drill Peck"
+                ],
+                "pt_br": [
+                    "Asa de Aço",
+                    "Pássaro Valente",
+                    "Ataque de Simulação",
+                    "Broca Bicada"
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "num": "086",
+            "name": "Seel",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/086.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 85,
+            "sta": 163,
+            "def": 121,
+            "generation": 1,
+            "description": {
+                "en": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+                "pt_br": "Seel caça suas presas no mar gélido sob camadas de gelo. Quando precisa respirar, ele abre um buraco no gelo com a seção acentuadamente saliente de sua cabeça."
+            },
+            "weight": 90.0,
+            "height": 1.1,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 87,
+                    "num": "087",
+                    "name": "Dewgong",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/087.png"
+                }
+            ],
+            "max_cp": 1098,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Aqua Tail"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Cauda de Água"
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "num": "087",
+            "name": "Dewgong",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/087.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "atk": 139,
+            "sta": 207,
+            "def": 177,
+            "generation": 1,
+            "description": {
+                "en": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+                "pt_br": "Dewgong adora dormir no gelo extremamente frio. A visão deste Pokémon dormindo em uma geleira foi erroneamente considerada uma sereia por um marinheiro há muito tempo."
+            },
+            "weight": 120.0,
+            "height": 1.7,
+            "pre_evolution": [
+                {
+                    "id": 86,
+                    "num": "086",
+                    "name": "Seel",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/086.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2245,
+            "resistant": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting",
+                    "Rock",
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Pedra",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Ice Shard",
+                    "Blizzard"
+                ],
+                "pt_br": [
+                    "Pedaço de Gelo",
+                    "Nevasca"
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "num": "088",
+            "name": "Grimer",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/088.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 135,
+            "sta": 190,
+            "def": 90,
+            "generation": 1,
+            "description": {
+                "en": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
+                "pt_br": "O corpo lamacento e emborrachado de Grimer pode ser forçado a passar por qualquer abertura, por menor que seja. Este Pokémon entra em canos de esgoto para beber águas residuais sujas."
+            },
+            "weight": 30.0,
+            "height": 0.9,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 89,
+                    "num": "089",
+                    "name": "Muk",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/089.png"
+                }
+            ],
+            "max_cp": 1553,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Sludge Bomb",
+                    "Mud-Slap"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Bomba de Lodo",
+                    "Tapa de Lama"
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "num": "089",
+            "name": "Muk",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/089.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 190,
+            "sta": 233,
+            "def": 172,
+            "generation": 1,
+            "description": {
+                "en": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
+                "pt_br": "Do corpo de Muk escapa um fluido fétido que exala um fedor horrível de entortar o nariz. Apenas uma gota do fluido corporal deste Pokémon pode tornar uma piscina estagnada e rançosa."
+            },
+            "weight": 30.0,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 88,
+                    "num": "088",
+                    "name": "Grimer",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/088.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3117,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Poison Jab",
+                    "Gunk Shot"
+                ],
+                "pt_br": [
+                    "Injeção de Veneno",
+                    "Tiro de Gosma"
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "num": "090",
+            "name": "Shellder",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/090.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 116,
+            "sta": 102,
+            "def": 134,
+            "generation": 1,
+            "description": {
+                "en": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+                "pt_br": "À noite, este Pokémon usa sua língua larga para cavar um buraco na areia do fundo do mar e dormir nele. Enquanto dorme, Shellder fecha a concha, mas deixa a língua de fora."
+            },
+            "weight": 4.0,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 91,
+                    "num": "091",
+                    "name": "Cloyster",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/091.png"
+                }
+            ],
+            "max_cp": 1221,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Tackle",
+                    "Water Pulse"
+                ],
+                "pt_br": [
+                    "Enfrentar",
+                    "Pulso de Água"
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "num": "091",
+            "name": "Cloyster",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/091.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "atk": 186,
+            "sta": 137,
+            "def": 256,
+            "generation": 1,
+            "description": {
+                "en": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+                "pt_br": "Cloyster é capaz de nadar no mar. Isso é feito engolindo água e depois jogando-a para a parte traseira. Este Pokémon atira pontas de sua concha usando o mesmo sistema."
+            },
+            "weight": 132.5,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 90,
+                    "num": "090",
+                    "name": "Shellder",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/090.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2880,
+            "resistant": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting",
+                    "Rock",
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Pedra",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Frost Breath",
+                    "Avalanche",
+                    "Ice Shard"
+                ],
+                "pt_br": [
+                    "Hálito de Geada",
+                    "Avalanche",
+                    "Pedaço de Gelo"
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "num": "092",
+            "name": "Gastly",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/092.png",
+            "type": {
+                "en": [
+                    "Ghost",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Fantasma",
+                    "Veneno"
+                ]
+            },
+            "atk": 186,
+            "sta": 102,
+            "def": 67,
+            "generation": 1,
+            "description": {
+                "en": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+                "pt_br": "Gastly é amplamente composto de matéria gasosa. Quando exposto a um vento forte, o corpo gasoso rapidamente diminui. Grupos desse Pokémon se aglomeram sob os beirais das casas para escapar da devastação do vento."
+            },
+            "weight": 0.1,
+            "height": 1.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 93,
+                    "num": "093",
+                    "name": "Haunter",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/093.png"
+                },
+                {
+                    "id": 94,
+                    "num": "094",
+                    "name": "Gengar",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/094.png"
+                }
+            ],
+            "max_cp": 1390,
+            "resistant": {
+                "en": [
+                    "Grass",
+                    "Fairy",
+                    "Normal",
+                    "Poison",
+                    "Bug",
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Fada",
+                    "Normal",
+                    "Veneno",
+                    "Inseto",
+                    "Lutador"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Ghost",
+                    "Psychic",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Fantasma",
+                    "Psíquico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Lick",
+                    "Sludge Bomb",
+                    "Astonish"
+                ],
+                "pt_br": [
+                    "Lamber",
+                    "Bomba de Lodo",
+                    "Surpreender"
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "num": "093",
+            "name": "Haunter",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/093.png",
+            "type": {
+                "en": [
+                    "Ghost",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Fantasma",
+                    "Veneno"
+                ]
+            },
+            "atk": 223,
+            "sta": 128,
+            "def": 107,
+            "generation": 1,
+            "description": {
+                "en": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+                "pt_br": "Haunter é um Pokémon perigoso. Se um acena para você enquanto flutua na escuridão, você nunca deve se aproximar dele. Este Pokémon tentará lamber você com a língua e roubar sua vida."
+            },
+            "weight": 0.1,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 92,
+                    "num": "092",
+                    "name": "Gastly",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/092.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 94,
+                    "num": "094",
+                    "name": "Gengar",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/094.png"
+                }
+            ],
+            "max_cp": 2219,
+            "resistant": {
+                "en": [
+                    "Grass",
+                    "Fairy",
+                    "Normal",
+                    "Poison",
+                    "Bug",
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Fada",
+                    "Normal",
+                    "Veneno",
+                    "Inseto",
+                    "Lutador"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Ghost",
+                    "Psychic",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Fantasma",
+                    "Psíquico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Lick",
+                    "Shadow Ball",
+                    "Astonish"
+                ],
+                "pt_br": [
+                    "Lamber",
+                    "Bola de Sombra",
+                    "Surpreender"
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "num": "094",
+            "name": "Gengar",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/094.png",
+            "type": {
+                "en": [
+                    "Ghost",
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Fantasma",
+                    "Veneno"
+                ]
+            },
+            "atk": 261,
+            "sta": 155,
+            "def": 149,
+            "generation": 1,
+            "description": {
+                "en": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+                "pt_br": "Às vezes, em uma noite escura, sua sombra projetada por um poste de luz repentina e surpreendentemente o ultrapassará. Na verdade, é um Gengar passando por você, fingindo ser sua sombra."
+            },
+            "weight": 40.5,
+            "height": 1.5,
+            "pre_evolution": [
+                {
+                    "id": 92,
+                    "num": "092",
+                    "name": "Gastly",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/092.png"
+                },
+                {
+                    "id": 93,
+                    "num": "093",
+                    "name": "Haunter",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/093.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3254,
+            "resistant": {
+                "en": [
+                    "Grass",
+                    "Fairy",
+                    "Normal",
+                    "Poison",
+                    "Bug",
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Fada",
+                    "Normal",
+                    "Veneno",
+                    "Inseto",
+                    "Lutador"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Ghost",
+                    "Psychic",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Fantasma",
+                    "Psíquico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Lick",
+                    "Shadow Ball",
+                    "Hex"
+                ],
+                "pt_br": [
+                    "Lamber",
+                    "Bola de Sombra",
+                    "Feitiço"
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "num": "095",
+            "name": "Onix",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/095.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Terrestre"
+                ]
+            },
+            "atk": 85,
+            "sta": 111,
+            "def": 232,
+            "generation": 1,
+            "description": {
+                "en": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+                "pt_br": "Onix tem um ímã em seu cérebro. Ele atua como uma bússola para que o Pokémon não perca a direção durante o túnel. À medida que envelhece, seu corpo se torna cada vez mais redondo e liso."
+            },
+            "weight": 210.0,
+            "height": 8.8,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 1245,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Rock Throw",
+                    "Rock Slide"
+                ],
+                "pt_br": [
+                    "Lance de Pedra",
+                    "Deslizamento de Rocha"
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "num": "096",
+            "name": "Drowzee",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/096.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 89,
+            "sta": 155,
+            "def": 136,
+            "generation": 1,
+            "description": {
+                "en": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
+                "pt_br": "Se seu nariz coçar enquanto você dorme, é um sinal claro de que um desses Pokémon está em pé acima do seu travesseiro e tentando comer seu sonho pelas narinas."
+            },
+            "weight": 32.4,
+            "height": 1.0,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 97,
+                    "num": "097",
+                    "name": "Hypno",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/097.png"
+                }
+            ],
+            "max_cp": 1176,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "num": "097",
+            "name": "Hypno",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/097.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 144,
+            "sta": 198,
+            "def": 193,
+            "generation": 1,
+            "description": {
+                "en": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
+                "pt_br": "Hypno segura um pêndulo na mão. O movimento em arco e o brilho do pêndulo levam o inimigo a um profundo estado de hipnose. Enquanto este Pokémon procura por uma presa, ele lustra o pêndulo."
+            },
+            "weight": 75.6,
+            "height": 1.6,
+            "pre_evolution": [
+                {
+                    "id": 96,
+                    "num": "096",
+                    "name": "Drowzee",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/096.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2363,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
         }
     ]
 }
