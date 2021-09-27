@@ -7408,6 +7408,1211 @@
                     "Psíquico"
                 ]
             }
+        },
+        {
+            "id": 98,
+            "num": "098",
+            "name": "Krabby",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/098.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 181,
+            "sta": 102,
+            "def": 124,
+            "generation": 1,
+            "description": {
+                "en": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+                "pt_br": "Krabby vive em praias, cavado em buracos cavados na areia. Em praias arenosas com pouca comida, esses Pokémon podem ser vistos discutindo entre si por território."
+            },
+            "weight": 6.5,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 99,
+                    "num": "099",
+                    "name": "Kingler",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/099.png"
+                }
+            ],
+            "max_cp": 1764,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Water Pulse"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Pulso de Água"
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "num": "099",
+            "name": "Kingler",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/099.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 240,
+            "sta": 146,
+            "def": 181,
+            "generation": 1,
+            "description": {
+                "en": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+                "pt_br": "Kingler tem uma garra enorme e enorme. Ele balança sua enorme garra no ar para se comunicar com os outros. No entanto, como a garra é muito pesada, o Pokémon se cansa rapidamente."
+            },
+            "weight": 60.0,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 98,
+                    "num": "098",
+                    "name": "Krabby",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/098.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3198,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Eletric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Crabhammer"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Martelo de Caranguejo"
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "num": "100",
+            "name": "Pikachu",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/100.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 109,
+            "sta": 120,
+            "def": 111,
+            "generation": 1,
+            "description": {
+                "en": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+                "pt_br": "Voltorb foi avistado pela primeira vez em uma empresa que fabrica Pokébolas. A ligação entre esse avistamento e o fato de que este Pokémon se parece muito com uma Pokébola permanece um mistério."
+            },
+            "weight": 10.4,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 101,
+                    "num": "101",
+                    "name": "Raichu",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/101.png"
+                }
+            ],
+            "max_cp": 1141,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Spark",
+                    "Thunderbolt",
+                    "Discharge"
+                ],
+                "pt_br": [
+                    "Fagulha",
+                    "Raio",
+                    "Descarga"
+                ]
+            }
+        },
+        {
+            "id": 101,
+            "num": "101",
+            "name": "Electrode",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/101.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 173,
+            "sta": 155,
+            "def": 173,
+            "generation": 1,
+            "description": {
+                "en": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+                "pt_br": "O Electrode consome eletricidade na atmosfera. Em dias de queda de raios, você pode ver esse Pokémon explodindo por todo lado por comer muita eletricidade."
+            },
+            "weight": 66.6,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 100,
+                    "num": "100",
+                    "name": "Voltorb",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/100.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2373,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Volt Switch",
+                    "Thunderbolt",
+                    "Discharge"
+                ],
+                "pt_br": [
+                    "Interruptor Volt",
+                    "Raio",
+                    "Descarga"
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "num": "102",
+            "name": "Exeggcute",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/102.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Psíquico"
+                ]
+            },
+            "atk": 107,
+            "sta": 155,
+            "def": 125,
+            "generation": 1,
+            "description": {
+                "en": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+                "pt_br": "Este Pokémon consiste em seis ovos que formam um aglomerado intimamente ligado. Os seis ovos se atraem e giram. Quando cada vez mais rachaduras aparecem nos ovos, Exeggcute está perto da evolução."
+            },
+            "weight": 2.5,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 103,
+                    "num": "103",
+                    "name": "Exeggutor",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/103.png"
+                }
+            ],
+            "max_cp": 1328,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Ground",
+                    "Water",
+                    "Grass",
+                    "Electric",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Terrestre",
+                    "Água",
+                    "Planta",
+                    "Elétrico",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Flying",
+                    "Poison",
+                    "Ghost",
+                    "Fire",
+                    "Ice",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Voador",
+                    "Veneno",
+                    "Fantasma",
+                    "Fogo",
+                    "Gelo",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "num": "103",
+            "name": "Exeggutor",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/103.png",
+            "type": {
+                "en": [
+                    "Grass",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Psíquico"
+                ]
+            },
+            "atk": 233,
+            "sta": 216,
+            "def": 149,
+            "generation": 1,
+            "description": {
+                "en": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+                "pt_br": "Exeggutor veio originalmente dos trópicos. Suas cabeças ficam cada vez maiores com a exposição à forte luz do sol. Diz-se que quando as cabeças caem, eles se agrupam para formar o Exeggcute."
+            },
+            "weight": 120.0,
+            "height": 2.0,
+            "pre_evolution": [
+                {
+                    "id": 102,
+                    "num": "102",
+                    "name": "Exeggcute",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/102.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3408,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Ground",
+                    "Water",
+                    "Grass",
+                    "Electric",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Terrestre",
+                    "Água",
+                    "Planta",
+                    "Elétrico",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Flying",
+                    "Poison",
+                    "Ghost",
+                    "Fire",
+                    "Ice",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Voador",
+                    "Veneno",
+                    "Fantasma",
+                    "Fogo",
+                    "Gelo",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Feixe Solar"
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "num": "104",
+            "name": "Cubone",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/104.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 90,
+            "sta": 137,
+            "def": 144,
+            "generation": 1,
+            "description": {
+                "en": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+                "pt_br": "Cubone anseia pela mãe que nunca mais verá. Vendo uma imagem de sua mãe na lua cheia, ela chora. As manchas no crânio que o Pokémon usa são causadas pelas lágrimas que ele derrama."
+            },
+            "weight": 6.5,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 105,
+                    "num": "105",
+                    "name": "Marowak",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/105.png"
+                }
+            ],
+            "max_cp": 1152,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Dig"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Escavação"
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "num": "105",
+            "name": "Marowak",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/105.png",
+            "type": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "atk": 144,
+            "sta": 155,
+            "def": 186,
+            "generation": 1,
+            "description": {
+                "en": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+                "pt_br": "Marowak é a forma evoluída de um Cubone que superou sua tristeza pela perda de sua mãe e se tornou difícil. O espírito temperado e endurecido deste Pokémon não é facilmente quebrado."
+            },
+            "weight": 45.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 104,
+                    "num": "104",
+                    "name": "Cubone",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/104.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2075,
+            "resistant": {
+                "en": [
+                    "Poison",
+                    "Rock",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Pedra",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Earthquake"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Terremoto"
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "num": "106",
+            "name": "Hitmonlee",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/106.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 224,
+            "sta": 137,
+            "def": 181,
+            "generation": 1,
+            "description": {
+                "en": "Hitmonlee legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+                "pt_br": "As pernas de Hitmonlee se contraem e se esticam livremente. Usando essas pernas semelhantes a molas, ele rola sobre os inimigos com chutes devastadores. Após a batalha, ele esfrega as pernas e relaxa os músculos para superar a fadiga."
+            },
+            "weight": 49.8,
+            "height": 1.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 107,
+                    "num": "107",
+                    "name": "Hitmonchan",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/107.png"
+                }
+            ],
+            "max_cp": 2912,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Low Kick",
+                    "Close Combat",
+                    "Rock Smash",
+                    "Brick Break"
+                ],
+                "pt_br": [
+                    "Chute Baixo",
+                    "Luta Corpo a Corpo",
+                    "Quebra de Pedra",
+                    "Quebra de Tijolos"
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "num": "107",
+            "name": "Hitmonchan",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/107.png",
+            "type": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "atk": 193,
+            "sta": 137,
+            "def": 197,
+            "generation": 1,
+            "description": {
+                "en": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+                "pt_br": "Diz-se que Hitmonchan possui o espírito de um boxeador que vinha lutando por um campeonato mundial. Este Pokémon tem um espírito indomável e nunca desistirá diante das adversidades."
+            },
+            "weight": 50.2,
+            "height": 1.4,
+            "pre_evolution": [
+                {
+                    "id": 106,
+                    "num": "106",
+                    "name": "Hitmonlee",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/106.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2636,
+            "resistant": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Sombrio"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Counter",
+                    "Close Combat",
+                    "Rock Smash",
+                    "Power-Up Punch"
+                ],
+                "pt_br": [
+                    "Contra-atacar",
+                    "Luta Corpo a Corpo",
+                    "Quebra de Pedra",
+                    "Soco de Poder"
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "num": "108",
+            "name": "Lickitung",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/108.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 108,
+            "sta": 207,
+            "def": 137,
+            "generation": 1,
+            "description": {
+                "en": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+                "pt_br": "Sempre que o Lickitung se depara com algo novo, ele infalivelmente o lambe. Fá-lo porque memoriza as coisas pela textura e pelo sabor. É um pouco desconcertado por coisas azedas."
+            },
+            "weight": 65.5,
+            "height": 1.2,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 1595,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Lick",
+                    "Hyper Beam",
+                    "Zen Headbutt",
+                    "Power Whip"
+                ],
+                "pt_br": [
+                    "Lamber",
+                    "Hiper Feixe",
+                    "Cabeça de Vento",
+                    "Chicote de Poder"
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "num": "109",
+            "name": "Koffing",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/109.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 119,
+            "sta": 120,
+            "def": 141,
+            "generation": 1,
+            "description": {
+                "en": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+                "pt_br": "Se Koffing ficar agitado, ele aumenta a toxicidade de seus gases internos e os jorra de todo o corpo. Este Pokémon também pode inflar demais seu corpo redondo e depois explodir."
+            },
+            "weight": 1.0,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 110,
+                    "num": "110",
+                    "name": "Weezing",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/110.png"
+                }
+            ],
+            "max_cp": 1373,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Infestation",
+                    "Sludge Bomb"
+                ],
+                "pt_br": [
+                    "Infestação",
+                    "Bomba de Lodo"
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "num": "110",
+            "name": "Weezing",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/110.png",
+            "type": {
+                "en": [
+                    "Poison"
+                ],
+                "pt_br": [
+                    "Veneno"
+                ]
+            },
+            "atk": 174,
+            "sta": 163,
+            "def": 197,
+            "generation": 1,
+            "description": {
+                "en": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+                "pt_br": "Weezing adora os gases emitidos pelo lixo podre da cozinha. Este Pokémon encontrará uma casa suja e mal cuidada e fará dela seu lar. À noite, quando as pessoas da casa estão dormindo, ela vai para o lixo."
+            },
+            "weight": 9.5,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 109,
+                    "num": "109",
+                    "name": "Koffing",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/109.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2592,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Poison",
+                    "Bug",
+                    "Grass",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Veneno",
+                    "Inseto",
+                    "Planta",
+                    "Fada"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Psíquico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Infestation",
+                    "Sludge Bomb",
+                    "Shadow Ball"
+                ],
+                "pt_br": [
+                    "Infestação",
+                    "Bomba de Lodo",
+                    "Bola de Sombra"
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "num": "111",
+            "name": "Rhyhorn",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/111.png",
+            "type": {
+                "en": [
+                    "Ground",
+                    "Rock"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra"
+                ]
+            },
+            "atk": 140,
+            "sta": 190,
+            "def": 127,
+            "generation": 1,
+            "description": {
+                "en": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+                "pt_br": "Rhyhorn corre em linha reta, esmagando tudo em seu caminho. Ele não se incomoda nem mesmo se bater de cabeça em um bloco de aço. Este Pokémon pode sentir um pouco de dor com a colisão do dia seguinte, no entanto."
+            },
+            "weight": 115.0,
+            "height": 1.0,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 112,
+                    "num": "112",
+                    "name": "Rhydon",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/112.png"
+                }
+            ],
+            "max_cp": 1867,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Bulldoze"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Demolir"
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "num": "112",
+            "name": "Rhydon",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/112.png",
+            "type": {
+                "en": [
+                    "Ground",
+                    "Rock"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra"
+                ]
+            },
+            "atk": 222,
+            "sta": 233,
+            "def": 171,
+            "generation": 1,
+            "description": {
+                "en": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
+                "pt_br": "O chifre de Rhydon pode esmagar até diamantes não lapidados. Um golpe violento de sua cauda pode derrubar um edifício. A pele deste Pokémon é extremamente resistente. Mesmo os golpes de canhão diretos não deixam um arranhão."
+            },
+            "weight": 120.0,
+            "height": 1.9,
+            "pre_evolution": [
+                {
+                    "id": 111,
+                    "num": "111",
+                    "name": "Rhyhorn",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/111.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3594,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Rock",
+                    "Fire",
+                    "Poison",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Pedra",
+                    "Fogo",
+                    "Veneno",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Water",
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Steel",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Aço",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Earthquake"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Terremoto"
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "num": "113",
+            "name": "Chansey",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/113.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 60,
+            "sta": 487,
+            "def": 128,
+            "generation": 1,
+            "description": {
+                "en": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+                "pt_br": "Chansey põe ovos nutricionalmente excelentes todos os dias. Os ovos são tão deliciosos que são devorados fácil e avidamente, mesmo por aquelas pessoas que perderam o apetite."
+            },
+            "weight": 34.6,
+            "height": 1.1,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 1418,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Hyper Beam",
+                    "Zen Headbutt",
+                    "Dazzling Gleam"
+                ],
+                "pt_br": [
+                    "Hiper Feixe",
+                    "Cabeça de Vento",
+                    "Brilho Deslumbrante"
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "num": "114",
+            "name": "Tangela",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/114.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 183,
+            "sta": 163,
+            "def": 169,
+            "generation": 1,
+            "description": {
+                "en": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+                "pt_br": "As vinhas de Tangela se desprendem facilmente se forem agarradas. Isso acontece sem dor, permitindo uma fuga rápida. As vinhas perdidas são substituídas por vinhas recém-crescidas no dia seguinte."
+            },
+            "weight": 35.0,
+            "height": 1.0,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2530,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Water",
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Água",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Poison",
+                    "Bug",
+                    "Fire",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Veneno",
+                    "Inseto",
+                    "Fogo",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Vine Whip",
+                    "Grass Knot",
+                    "Infestation",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Chicote de Videira",
+                    "Nó de Grama",
+                    "Infestação",
+                    "Feixe Solar"
+                ]
+            }
         }
     ]
 }
