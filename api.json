@@ -7548,7 +7548,7 @@
         {
             "id": 100,
             "num": "100",
-            "name": "Pikachu",
+            "name": "Voltorb",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/100.png",
             "type": {
                 "en": [
@@ -7573,7 +7573,7 @@
                 {
                     "id": 101,
                     "num": "101",
-                    "name": "Raichu",
+                    "name": "Electrode",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/101.png"
                 }
             ],
