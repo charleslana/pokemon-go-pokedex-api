@@ -1,4 +1,4 @@
-# *Api Pokemon (Pokedex) in JSON by Charles Lana*
+# *Api Pokemon (Pokédex) in JSON by Charles Lana*
  Add pokemons
  
 - [ ] **1st generation**
