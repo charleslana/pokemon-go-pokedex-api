@@ -10726,11 +10726,11 @@
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/146.png",
             "type": {
                 "en": [
-                    "Electric",
+                    "Fire",
                     "Flying"
                 ],
                 "pt_br": [
-                    "Elétrico",
+                    "Fogo",
                     "Voador"
                 ]
             },
