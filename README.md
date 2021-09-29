@@ -11,8 +11,8 @@
 | num            |            | Pokémon numerical order number                |
 | name           |            | Pokémon name                                  |
 | img            |            | Pokémon image                                 |
-| type           | en         | Pokémon type list in english                  |
-|                | pt_br      | Pokémon type list in portuguese               |
+| type           | en         | Pokémon types list in english                 |
+|                | pt_br      | Pokémon types list in portuguese              |
 | atk            |            | Pokémon attack                                |
 | sta            |            | Pokémon stamina                               |
 | def            |            | Pokémon defense                               |
@@ -51,8 +51,8 @@
 | num            |            | Número de ordem numérica do pokémon                 |
 | name           |            | Nome do pokémon                                     |
 | img            |            | Imagem do pokémon                                   |
-| type           | en         | Lista do tipo do pokémon em inglês                  |
-|                | pt_br      | Lista do tipo do pokémon em português               |
+| type           | en         | Lista de tipos do pokémon em inglês                 |
+|                | pt_br      | Lista de tipos do pokémon em português              |
 | atk            |            | Ataque do pokémon                                   |
 | sta            |            | Energia do pokémon                                  |
 | def            |            | Defesa do pokémon                                   |
