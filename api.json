@@ -29,13 +29,13 @@
             "next_evolution": [
                 {
                     "id": 2,
-                    "num": "02",
+                    "num": "002",
                     "name": "Ivysaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png"
                 },
                 {
                     "id": 3,
-                    "num": "03",
+                    "num": "003",
                     "name": "Venusaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png"
                 }
@@ -112,7 +112,7 @@
             "pre_evolution": [
                 {
                     "id": 1,
-                    "num": "01",
+                    "num": "001",
                     "name": "Bulbasaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png"
                 }
@@ -120,7 +120,7 @@
             "next_evolution": [
                 {
                     "id": 3,
-                    "num": "03",
+                    "num": "003",
                     "name": "Venusaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/003.png"
                 }
@@ -197,13 +197,13 @@
             "pre_evolution": [
                 {
                     "id": 1,
-                    "num": "01",
+                    "num": "001",
                     "name": "Bulbasaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/001.png"
                 },
                 {
                     "id": 2,
-                    "num": "02",
+                    "num": "002",
                     "name": "Ivysaur",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/002.png"
                 }
@@ -282,13 +282,13 @@
             "next_evolution": [
                 {
                     "id": 5,
-                    "num": "05",
+                    "num": "005",
                     "name": "Charmeleon",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png"
                 },
                 {
                     "id": 6,
-                    "num": "06",
+                    "num": "006",
                     "name": "Charizard",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png"
                 }
@@ -363,7 +363,7 @@
             "pre_evolution": [
                 {
                     "id": 4,
-                    "num": "04",
+                    "num": "004",
                     "name": "Charmander",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png"
                 }
@@ -371,7 +371,7 @@
             "next_evolution": [
                 {
                     "id": 6,
-                    "num": "06",
+                    "num": "006",
                     "name": "Charizard",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/006.png"
                 }
@@ -448,13 +448,13 @@
             "pre_evolution": [
                 {
                     "id": 4,
-                    "num": "04",
+                    "num": "004",
                     "name": "Charmander",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/004.png"
                 },
                 {
                     "id": 5,
-                    "num": "05",
+                    "num": "005",
                     "name": "Charmeleon",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/005.png"
                 }
@@ -485,7 +485,7 @@
                 "en": [
                     "Rock",
                     "Water",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Pedra",
@@ -560,7 +560,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -635,7 +635,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -711,7 +711,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -2572,7 +2572,7 @@
                     "Bug",
                     "Fairy",
                     "Poison",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Lutador",
@@ -3245,7 +3245,7 @@
                 "en": [
                     "Fighting",
                     "Water",
-                    "Eletric",
+                    "Electric",
                     "Fairy",
                     "Grass"
                 ],
@@ -3330,7 +3330,7 @@
                 "en": [
                     "Fighting",
                     "Water",
-                    "Eletric",
+                    "Electric",
                     "Fairy",
                     "Grass"
                 ],
@@ -3414,7 +3414,7 @@
                 "en": [
                     "Fighting",
                     "Water",
-                    "Eletric",
+                    "Electric",
                     "Fairy",
                     "Grass"
                 ],
@@ -3490,7 +3490,7 @@
                 "en": [
                     "Fighting",
                     "Water",
-                    "Eletric",
+                    "Electric",
                     "Ground",
                     "Grass"
                 ],
@@ -3570,7 +3570,7 @@
                 "en": [
                     "Fighting",
                     "Water",
-                    "Eletric",
+                    "Electric",
                     "Ground",
                     "Grass"
                 ],
@@ -3806,7 +3806,7 @@
                 "en": [
                     "Poison",
                     "Rock",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Veneno",
@@ -3874,7 +3874,7 @@
                 "en": [
                     "Poison",
                     "Rock",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Veneno",
@@ -6145,7 +6145,7 @@
             "generation": 1,
             "description": {
                 "en": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
-                "pt_br": "Magnemite se liga a linhas de força para se alimentar de eletricidade. Se sua casa estiver sem energia, verifique os disjuntores. Você pode encontrar um grande número desse Pokémon agarrado à caixa do disjuntor."
+                "pt_br": "Magnemite se liga a linhas de força para se alimentar de Electricidade. Se sua casa estiver sem energia, verifique os disjuntores. Você pode encontrar um grande número desse Pokémon agarrado à caixa do disjuntor."
             },
             "weight": 6.0,
             "height": 0.3,
@@ -6573,7 +6573,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -6641,7 +6641,7 @@
                     "Fighting",
                     "Rock",
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Lutador",
@@ -6853,7 +6853,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -6921,7 +6921,7 @@
                     "Fighting",
                     "Rock",
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Lutador",
@@ -7459,7 +7459,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -7527,7 +7527,7 @@
             "weaknesses": {
                 "en": [
                     "Grass",
-                    "Eletric"
+                    "Electric"
                 ],
                 "pt_br": [
                     "Planta",
@@ -7630,7 +7630,7 @@
             "generation": 1,
             "description": {
                 "en": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
-                "pt_br": "O Electrode consome eletricidade na atmosfera. Em dias de queda de raios, você pode ver esse Pokémon explodindo por todo lado por comer muita eletricidade."
+                "pt_br": "O Electrode consome Electricidade na atmosfera. Em dias de queda de raios, você pode ver esse Pokémon explodindo por todo lado por comer muita Electricidade."
             },
             "weight": 66.6,
             "height": 1.2,
@@ -8610,6 +8610,2547 @@
                     "Chicote de Videira",
                     "Nó de Grama",
                     "Infestação",
+                    "Feixe Solar"
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "num": "115",
+            "name": "Kangaskhan",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/115.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 181,
+            "sta": 233,
+            "def": 165,
+            "generation": 1,
+            "description": {
+                "en": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+                "pt_br": "Se você encontrar um jovem Kangaskhan brincando sozinho, nunca deve perturbá-lo ou tentar pegá-lo. O pai do bebê Pokémon com certeza está na área, e ele ficará violentamente furioso com você."
+            },
+            "weight": 80.0,
+            "height": 2.2,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2924,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Mud-Slap",
+                    "Outrage"
+                ],
+                "pt_br": [
+                    "Tapa de Lama",
+                    "Ultraje"
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "num": "116",
+            "name": "Horsea",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/116.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 129,
+            "sta": 102,
+            "def": 103,
+            "generation": 1,
+            "description": {
+                "en": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+                "pt_br": "Horsea come pequenos insetos e musgo das rochas. Se a corrente do oceano vira rápido, este Pokémon se ancora enrolando sua cauda em rochas ou corais para evitar que seja levado pela água."
+            },
+            "weight": 8.0,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 117,
+                    "num": "117",
+                    "name": "Seadra",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/117.png"
+                }
+            ],
+            "max_cp": 1194,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bubble",
+                    "Dragon Pulse"
+                ],
+                "pt_br": [
+                    "Bolha",
+                    "Pulso de Dragão"
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "num": "117",
+            "name": "Seadra",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/117.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 187,
+            "sta": 146,
+            "def": 156,
+            "generation": 1,
+            "description": {
+                "en": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
+                "pt_br": "Seadra dorme depois de se contorcer entre os galhos de coral. Aqueles que tentam coletar corais são ocasionalmente picados pelas farpas venenosas deste Pokémon, caso não percebam."
+            },
+            "weight": 25.0,
+            "height": 1.2,
+            "pre_evolution": [
+                {
+                    "id": 116,
+                    "num": "116",
+                    "name": "Horsea",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/116.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2366,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Hydro Pump",
+                    "Dragon Pulse"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Bomba de Hidro",
+                    "Pulso de Dragão"
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "num": "118",
+            "name": "Goldeen",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/118.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 123,
+            "sta": 128,
+            "def": 110,
+            "generation": 1,
+            "description": {
+                "en": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
+                "pt_br": "Goldeen é um Pokémon muito bonito com barbatanas que ondulam elegantemente na água. No entanto, não baixe a guarda em torno deste Pokémon - ele pode atingir você com força com seu chifre."
+            },
+            "weight": 15.0,
+            "height": 0.6,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 119,
+                    "num": "119",
+                    "name": "Seaking",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/119.png"
+                }
+            ],
+            "max_cp": 1302,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Peck",
+                    "Aqua Tail"
+                ],
+                "pt_br": [
+                    "Bicada",
+                    "Cauda de Água"
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "num": "119",
+            "name": "Seaking",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/119.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 175,
+            "sta": 190,
+            "def": 147,
+            "generation": 1,
+            "description": {
+                "en": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
+                "pt_br": "No outono, os machos Seaking podem ser vistos realizando danças de namoro no leito do rio para cortejar as fêmeas. Durante esta temporada, a coloração do corpo deste Pokémon é mais bonita."
+            },
+            "weight": 39.0,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 118,
+                    "num": "118",
+                    "name": "Goldeen",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/118.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2444,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Waterfall",
+                    "Megahorn",
+                    "Ice Beam"
+                ],
+                "pt_br": [
+                    "Cascata",
+                    "Mega Chifre",
+                    "Feixe de Gelo"
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "num": "120",
+            "name": "Staryu",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/120.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 137,
+            "sta": 102,
+            "def": 112,
+            "generation": 1,
+            "description": {
+                "en": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+                "pt_br": "A seção central de Staryu tem um órgão chamado núcleo que brilha em vermelho vivo. Se você for a uma praia no final do verão, os núcleos brilhantes desses Pokémon parecem estrelas no céu."
+            },
+            "weight": 34.5,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 121,
+                    "num": "121",
+                    "name": "Starmie",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/121.png"
+                }
+            ],
+            "max_cp": 1308,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Bubble Beam"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Feixe de Bolha"
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "num": "121",
+            "name": "Starmie",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/121.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Psíquico"
+                ]
+            },
+            "atk": 210,
+            "sta": 155,
+            "def": 184,
+            "generation": 1,
+            "description": {
+                "en": "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname “the gem of the sea.",
+                "pt_br": "A seção central de Starmie - o núcleo - brilha intensamente em sete cores. Devido à sua natureza luminosa, este Pokémon recebeu o apelido de “a joia do mar."
+            },
+            "weight": 80.0,
+            "height": 1.1,
+            "pre_evolution": [
+                {
+                    "id": 120,
+                    "num": "120",
+                    "name": "Staryu",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/120.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 2922,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Grass",
+                    "Electric",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Planta",
+                    "Elétrico",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Psychic",
+                    "Hidden Power"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Psíquico",
+                    "Poder Escondido"
+                ]
+            }
+        },
+        {
+            "id": 122,
+            "num": "122",
+            "name": "Mr. Mime",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/122.png",
+            "type": {
+                "en": [
+                    "Psychic",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Psíquico",
+                    "Fada"
+                ]
+            },
+            "atk": 192,
+            "sta": 120,
+            "def": 205,
+            "generation": 1,
+            "description": {
+                "en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+                "pt_br": "O Sr. Mime é um mestre da pantomima. Seus gestos e movimentos convencem os observadores de que algo invisível realmente existe. Uma vez que os observadores estão convencidos, a coisa invisível existe como se fosse real."
+            },
+            "weight": 54.5,
+            "height": 1.3,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2518,
+            "resistant": {
+                "en": [
+                    "Psychic",
+                    "Fighting",
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Psíquico",
+                    "Lutador",
+                    "Dragão"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Poison",
+                    "Ghost",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Veneno",
+                    "Fantasma",
+                    "Aço"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 123,
+            "num": "123",
+            "name": "Scyther",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/123.png",
+            "type": {
+                "en": [
+                    "Bug",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Voador"
+                ]
+            },
+            "atk": 218,
+            "sta": 172,
+            "def": 170,
+            "generation": 1,
+            "description": {
+                "en": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+                "pt_br": "Scyther é incrivelmente rápido. Sua velocidade incrível aumenta a eficácia das foices gêmeas em seus antebraços. As foices deste Pokémon são tão eficazes que podem cortar troncos grossos com um único golpe."
+            },
+            "weight": 56.0,
+            "height": 1.5,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3060,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fighting",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Lutador",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Flying",
+                    "Fire",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Voador",
+                    "Fogo",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Air Slash",
+                    "Bug Buzz"
+                ],
+                "pt_br": [
+                    "Corte de Ar",
+                    "Zumbido de Inseto"
+                ]
+            }
+        },
+        {
+            "id": 124,
+            "num": "124",
+            "name": "Jynx",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/124.png",
+            "type": {
+                "en": [
+                    "Ice",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Gelo",
+                    "Psíquico"
+                ]
+            },
+            "atk": 223,
+            "sta": 163,
+            "def": 151,
+            "generation": 1,
+            "description": {
+                "en": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+                "pt_br": "Jynx caminha ritmicamente, balançando e balançando os quadris como se estivesse dançando. Seus movimentos são tão atraentes que as pessoas que o veem são compelidas a balançar os quadris sem se preocupar com o que estão fazendo."
+            },
+            "weight": 40.6,
+            "height": 1.4,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2888,
+            "resistant": {
+                "en": [
+                    "Psychic",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Psíquico",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Bug",
+                    "Ghost",
+                    "Steel",
+                    "Fire",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Inseto",
+                    "Fantasma",
+                    "Aço",
+                    "Fogo",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Avalanche"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Avalanche"
+                ]
+            }
+        },
+        {
+            "id": 125,
+            "num": "125",
+            "name": "Electabuzz",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/125.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 198,
+            "sta": 163,
+            "def": 158,
+            "generation": 1,
+            "description": {
+                "en": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+                "pt_br": "Quando uma tempestade chega, gangues desse Pokémon competem entre si para escalar alturas que provavelmente serão atingidas por raios. Algumas cidades usam Electabuzz no lugar dos pára-raios."
+            },
+            "weight": 30.0,
+            "height": 1.1,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2639,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Thunder Shock",
+                    "Thunderbolt"
+                ],
+                "pt_br": [
+                    "Choque do Trovão",
+                    "Raio"
+                ]
+            }
+        },
+        {
+            "id": 126,
+            "num": "126",
+            "name": "Magmar",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/126.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 206,
+            "sta": 163,
+            "def": 154,
+            "generation": 1,
+            "description": {
+                "en": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+                "pt_br": "Na batalha, Magmar sopra chamas intensamente quentes por todo o corpo para intimidar seu oponente. As explosões de fogo deste Pokémon criam ondas de calor que incendiam a grama e as árvores ao redor."
+            },
+            "weight": 44.5,
+            "height": 1.3,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2706,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fairy",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fada",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Ember",
+                    "Fire Blast",
+                    "Flamethrower"
+                ],
+                "pt_br": [
+                    "Brasa",
+                    "Explosão de Fogo",
+                    "Lança-chamas"
+                ]
+            }
+        },
+        {
+            "id": 127,
+            "num": "127",
+            "name": "Pinsir",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/127.png",
+            "type": {
+                "en": [
+                    "Bug"
+                ],
+                "pt_br": [
+                    "Inseto"
+                ]
+            },
+            "atk": 238,
+            "sta": 163,
+            "def": 182,
+            "generation": 1,
+            "description": {
+                "en": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+                "pt_br": "Pinsir é incrivelmente forte. Ele pode agarrar um inimigo com o dobro de seu peso em seus chifres e levantá-lo facilmente. Os movimentos deste Pokémon tornam-se lentos em locais frios."
+            },
+            "weight": 55.0,
+            "height": 1.5,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3345,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Flying",
+                    "Rock",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Pedra",
+                    "Fogo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Bug Bite",
+                    "X-Scissor",
+                    "Rock Smash"
+                ],
+                "pt_br": [
+                    "Picada de Inseto",
+                    "X-Tesoura",
+                    "Quebra de Pedra"
+                ]
+            }
+        },
+        {
+            "id": 128,
+            "num": "128",
+            "name": "Tauros",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/128.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 198,
+            "sta": 181,
+            "def": 183,
+            "generation": 1,
+            "description": {
+                "en": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+                "pt_br": "Este Pokémon não está satisfeito a menos que esteja furioso o tempo todo. Se não houver nenhum oponente para Tauros lutar, ele irá atacar árvores grossas e derrubá-las para se acalmar."
+            },
+            "weight": 88.4,
+            "height": 1.4,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2962,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Tackle",
+                    "Earthquake",
+                    "Zen Headbutt"
+                ],
+                "pt_br": [
+                    "Enfrentar",
+                    "Terremoto",
+                    "Cabeça de Vento"
+                ]
+            }
+        },
+        {
+            "id": 129,
+            "num": "129",
+            "name": "Magikarp",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/129.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 29,
+            "sta": 85,
+            "def": 85,
+            "generation": 1,
+            "description": {
+                "en": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+                "pt_br": "Magikarp é uma desculpa patética para um Pokémon que só é capaz de bater e espirrar. Esse comportamento levou os cientistas a fazer pesquisas sobre ele."
+            },
+            "weight": 10.0,
+            "height": 0.9,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 130,
+                    "num": "130",
+                    "name": "Gyarados",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/130.png"
+                }
+            ],
+            "max_cp": 310,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Splash",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Respingo",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 130,
+            "num": "130",
+            "name": "Gyarados",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/130.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Voador"
+                ]
+            },
+            "atk": 237,
+            "sta": 216,
+            "def": 186,
+            "generation": 1,
+            "description": {
+                "en": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
+                "pt_br": "Quando Magikarp evolui para Gyarados, suas células cerebrais passam por uma transformação estrutural. Diz-se que essa transformação é a responsável pela natureza violenta desse Pokémon."
+            },
+            "weight": 235,
+            "height": 6.5,
+            "pre_evolution": [
+                {
+                    "id": 129,
+                    "num": "129",
+                    "name": "Magikarp",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/129.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3834,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Bug",
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Inseto",
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Terrestre"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Electric",
+                    "Rock"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Pedra"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Waterfall",
+                    "Hydro Pump",
+                    "Outrage"
+                ],
+                "pt_br": [
+                    "Cascata",
+                    "Bomba de Hidro",
+                    "Ultraje"
+                ]
+            }
+        },
+        {
+            "id": 131,
+            "num": "131",
+            "name": "Lapras",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/131.png",
+            "type": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "atk": 165,
+            "sta": 277,
+            "def": 174,
+            "generation": 1,
+            "description": {
+                "en": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+                "pt_br": "As pessoas levaram Lapras quase à extinção. À noite, este Pokémon canta melancolicamente enquanto busca o que poucos outros de sua espécie ainda restam."
+            },
+            "weight": 220,
+            "height": 2.5,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 2985,
+            "resistant": {
+                "en": [
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting",
+                    "Rock",
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Pedra",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Surf",
+                    "Ice Shard",
+                    "Ice Beam"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Surfar",
+                    "Pedaço de Gelo",
+                    "Feixe de Gelo"
+                ]
+            }
+        },
+        {
+            "id": 132,
+            "num": "132",
+            "name": "Ditto",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/132.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 91,
+            "sta": 134,
+            "def": 91,
+            "generation": 1,
+            "description": {
+                "en": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
+                "pt_br": "Dito reorganiza sua estrutura celular para se transformar em outras formas. No entanto, se tentar se transformar em algo contando com sua memória, esse Pokémon consegue errar nos detalhes."
+            },
+            "weight": 4.0,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 940,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Transform",
+                    "Struggle"
+                ],
+                "pt_br": [
+                    "Transformar",
+                    "Luta"
+                ]
+            }
+        },
+        {
+            "id": 133,
+            "num": "133",
+            "name": "Eevee",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/133.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 104,
+            "sta": 146,
+            "def": 114,
+            "generation": 1,
+            "description": {
+                "en": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+                "pt_br": "Eevee tem uma composição genética instável que muda repentinamente devido ao ambiente em que vive. A radiação de várias pedras faz com que este Pokémon evolua."
+            },
+            "weight": 6.5,
+            "height": 0.3,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 134,
+                    "num": "134",
+                    "name": "Vaporeon",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/134.png"
+                },
+                {
+                    "id": 135,
+                    "num": "135",
+                    "name": "Jolteon",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/135.png"
+                },
+                {
+                    "id": 136,
+                    "num": "136",
+                    "name": "Flareon",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/136.png"
+                }
+            ],
+            "max_cp": 1210,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Quick Attack",
+                    "Last Resort"
+                ],
+                "pt_br": [
+                    "Ataque Rápido",
+                    "Último Recurso"
+                ]
+            }
+        },
+        {
+            "id": 134,
+            "num": "134",
+            "name": "Vaporeon",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/134.png",
+            "type": {
+                "en": [
+                    "Water"
+                ],
+                "pt_br": [
+                    "Água"
+                ]
+            },
+            "atk": 205,
+            "sta": 277,
+            "def": 161,
+            "generation": 1,
+            "description": {
+                "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+                "pt_br": "Vaporeon sofreu uma mutação espontânea e desenvolveu barbatanas e guelras que o permitem viver debaixo d'água. Este Pokémon tem a capacidade de controlar a água livremente."
+            },
+            "weight": 29.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 133,
+                    "num": "133",
+                    "name": "Eevee",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/133.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3521,
+            "resistant": {
+                "en": [
+                    "Steel",
+                    "Fire",
+                    "Water",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Aço",
+                    "Fogo",
+                    "Água",
+                    "Gelo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Hydro Pump",
+                    "Aqua Tail"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Bomba de Hidro",
+                    "Cauda de Água"
+                ]
+            }
+        },
+        {
+            "id": 135,
+            "num": "135",
+            "name": "Jolteon",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/135.png",
+            "type": {
+                "en": [
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Elétrico"
+                ]
+            },
+            "atk": 232,
+            "sta": 163,
+            "def": 182,
+            "generation": 1,
+            "description": {
+                "en": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+                "pt_br": "As células de Jolteon geram um baixo nível de eletricidade. Esse poder é amplificado pela eletricidade estática de seu pelo, permitindo ao Pokémon lançar raios. O pêlo eriçado é feito de agulhas eletricamente carregadas."
+            },
+            "weight": 24.5,
+            "height": 0.8,
+            "pre_evolution": [
+                {
+                    "id": 133,
+                    "num": "133",
+                    "name": "Eevee",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/133.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3265,
+            "resistant": {
+                "en": [
+                    "Flying",
+                    "Steel",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Voador",
+                    "Aço",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Terrestre"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Thunder Shock",
+                    "Thunderbolt",
+                    "Volt Switch",
+                    "Discharge"
+                ],
+                "pt_br": [
+                    "Choque do Trovão",
+                    "Raio",
+                    "Interruptor Volt",
+                    "Descarga"
+                ]
+            }
+        },
+        {
+            "id": 136,
+            "num": "136",
+            "name": "Flareon",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/136.png",
+            "type": {
+                "en": [
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Fogo"
+                ]
+            },
+            "atk": 246,
+            "sta": 163,
+            "def": 179,
+            "generation": 1,
+            "description": {
+                "en": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+                "pt_br": "O pelo fofo de Flareon tem um propósito funcional - ele libera calor no ar para que seu corpo não fique excessivamente quente. A temperatura corporal deste Pokémon pode aumentar até 1.650 graus Fahrenheit."
+            },
+            "weight": 25.0,
+            "height": 0.9,
+            "pre_evolution": [
+                {
+                    "id": 133,
+                    "num": "133",
+                    "name": "Eevee",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/133.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3424,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Fairy",
+                    "Fire",
+                    "Grass",
+                    "Ice",
+                    "Steel"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fada",
+                    "Fogo",
+                    "Planta",
+                    "Gelo",
+                    "Aço"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ground",
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Spin",
+                    "Overheat"
+                ],
+                "pt_br": [
+                    "Rotação de Fogo",
+                    "Superaquecimento"
+                ]
+            }
+        },
+        {
+            "id": 137,
+            "num": "137",
+            "name": "Porygon",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/137.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 153,
+            "sta": 163,
+            "def": 136,
+            "generation": 1,
+            "description": {
+                "en": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
+                "pt_br": "O Porygon é capaz de voltar totalmente aos dados do programa e entrar no ciberespaço. Este Pokémon é protegido contra cópia, portanto, não pode ser duplicado por cópia."
+            },
+            "weight": 36.5,
+            "height": 0.8,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 1944,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Tackle",
+                    "Hyper Beam",
+                    "Hidden Power"
+                ],
+                "pt_br": [
+                    "Enfrentar",
+                    "Hiper Feixe",
+                    "Poder Escondido"
+                ]
+            }
+        },
+        {
+            "id": 138,
+            "num": "138",
+            "name": "Omanyte",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/138.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "atk": 155,
+            "sta": 111,
+            "def": 153,
+            "generation": 1,
+            "description": {
+                "en": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+                "pt_br": "Omanyte é um dos antigos e extintos Pokémon que foram regenerados a partir de fósseis por pessoas. Se atacado por um inimigo, ele se retira para dentro de sua casca dura."
+            },
+            "weight": 7.5,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 139,
+                    "num": "139",
+                    "name": "Omastar",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/139.png"
+                }
+            ],
+            "max_cp": 1746,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Poison",
+                    "Ice",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Veneno",
+                    "Gelo",
+                    "Fogo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Water Gun",
+                    "Mud Shot",
+                    "Ancient Power"
+                ],
+                "pt_br": [
+                    "Arma de Água",
+                    "Tiro de Lama",
+                    "Poder Antigo"
+                ]
+            }
+        },
+        {
+            "id": 139,
+            "num": "139",
+            "name": "Omastar",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/139.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "atk": 207,
+            "sta": 172,
+            "def": 201,
+            "generation": 1,
+            "description": {
+                "en": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+                "pt_br": "Omastar usa seus tentáculos para capturar sua presa. Acredita-se que ele tenha se extinguido porque sua concha ficou muito grande e pesada, fazendo com que seus movimentos se tornassem muito lentos e pesados."
+            },
+            "weight": 35.0,
+            "height": 1.0,
+            "pre_evolution": [
+                {
+                    "id": 138,
+                    "num": "138",
+                    "name": "Omanyte",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/138.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3150,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Poison",
+                    "Ice",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Veneno",
+                    "Gelo",
+                    "Fogo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Rock Throw",
+                    "Hydro Pump",
+                    "Rock Slide"
+                ],
+                "pt_br": [
+                    "Lance de Pedra",
+                    "Bomba de Hidro",
+                    "Deslizamento de Rocha"
+                ]
+            }
+        },
+        {
+            "id": 140,
+            "num": "140",
+            "name": "Kabuto",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/140.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "atk": 148,
+            "sta": 102,
+            "def": 140,
+            "generation": 1,
+            "description": {
+                "en": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+                "pt_br": "Kabuto é um Pokémon que foi regenerado a partir de um fóssil. No entanto, em casos extremamente raros, exemplos vivos foram descobertos. O Pokémon não mudou nada por 300 milhões de anos."
+            },
+            "weight": 11.5,
+            "height": 0.5,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 141,
+                    "num": "141",
+                    "name": "Kabutops",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/141.png"
+                }
+            ],
+            "max_cp": 1549,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Poison",
+                    "Ice",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Veneno",
+                    "Gelo",
+                    "Fogo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Scratch",
+                    "Ancient Power",
+                    "Mud Shot"
+                ],
+                "pt_br": [
+                    "Arranhar",
+                    "Poder Antigo",
+                    "Tiro de Lama"
+                ]
+            }
+        },
+        {
+            "id": 141,
+            "num": "141",
+            "name": "Kabutops",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/141.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Water"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água"
+                ]
+            },
+            "atk": 220,
+            "sta": 155,
+            "def": 186,
+            "generation": 1,
+            "description": {
+                "en": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
+                "pt_br": "Kabutops nadava debaixo d'água para caçar suas presas nos tempos antigos. O Pokémon estava aparentemente evoluindo de um habitante da água para viver na terra, como é evidente desde o início da mudança em suas guelras e pernas."
+            },
+            "weight": 40.5,
+            "height": 1.3,
+            "pre_evolution": [
+                {
+                    "id": 140,
+                    "num": "140",
+                    "name": "Kabuto",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/140.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 3067,
+            "resistant": {
+                "en": [
+                    "Normal",
+                    "Flying",
+                    "Poison",
+                    "Ice",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Normal",
+                    "Voador",
+                    "Veneno",
+                    "Gelo",
+                    "Fogo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Grass",
+                    "Fighting",
+                    "Ground",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Planta",
+                    "Lutador",
+                    "Terrestre",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Waterfall",
+                    "Stone Edge",
+                    "Ancient Power"
+                ],
+                "pt_br": [
+                    "Cascata",
+                    "Borda de Pedra",
+                    "Poder Antigo"
+                ]
+            }
+        },
+        {
+            "id": 142,
+            "num": "142",
+            "name": "Aerodactyl",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/142.png",
+            "type": {
+                "en": [
+                    "Rock",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Voador"
+                ]
+            },
+            "atk": 221,
+            "sta": 190,
+            "def": 159,
+            "generation": 1,
+            "description": {
+                "en": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+                "pt_br": "Aerodactyl é um Pokémon da era dos dinossauros. Foi regenerado a partir de material genético extraído do âmbar. É imaginado que ele foi o rei dos céus nos tempos antigos."
+            },
+            "weight": 59.0,
+            "height": 1.8,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3147,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Normal",
+                    "Flying",
+                    "Poison",
+                    "Bug",
+                    "Fire"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Normal",
+                    "Voador",
+                    "Veneno",
+                    "Inseto",
+                    "Fogo"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Steel",
+                    "Water",
+                    "Electric",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Aço",
+                    "Água",
+                    "Elétrico",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Rock Throw",
+                    "Rock Slide"
+                ],
+                "pt_br": [
+                    "Lance de Pedra",
+                    "Deslizamento de Rocha"
+                ]
+            }
+        },
+        {
+            "id": 143,
+            "num": "143",
+            "name": "Snorlax",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/143.png",
+            "type": {
+                "en": [
+                    "Normal"
+                ],
+                "pt_br": [
+                    "Normal"
+                ]
+            },
+            "atk": 190,
+            "sta": 330,
+            "def": 169,
+            "generation": 1,
+            "description": {
+                "en": "Snorlax typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
+                "pt_br": "O dia típico de Snorlax consiste em nada mais do que comer e dormir. É um Pokémon tão dócil que há crianças que usam sua barriga expansiva como um lugar para brincar."
+            },
+            "weight": 460,
+            "height": 2.1,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3647,
+            "resistant": {
+                "en": [
+                    "Ghost"
+                ],
+                "pt_br": [
+                    "Fantasma"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Fighting"
+                ],
+                "pt_br": [
+                    "Lutador"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Lick",
+                    "Hyper Beam",
+                    "Zen Headbutt",
+                    "Outrage"
+                ],
+                "pt_br": [
+                    "Lamber",
+                    "Hiper Feixe",
+                    "Cabeça de Vento",
+                    "Ultraje"
+                ]
+            }
+        },
+        {
+            "id": 144,
+            "num": "144",
+            "name": "Articuno",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/144.png",
+            "type": {
+                "en": [
+                    "Ice",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Gelo",
+                    "Voador"
+                ]
+            },
+            "atk": 192,
+            "sta": 207,
+            "def": 236,
+            "generation": 1,
+            "description": {
+                "en": "Articuno is a Legendary Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+                "pt_br": "Articuno é um Pokémon Lendário que pode controlar o gelo. O bater de suas asas esfria o ar. Como resultado, diz-se que quando este Pokémon voa, a neve vai cair."
+            },
+            "weight": 55.4,
+            "height": 1.7,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3450,
+            "resistant": {
+                "en": [
+                    "Bug",
+                    "Grass",
+                    "Ground"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Planta",
+                    "Terrestre"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Steel",
+                    "Fire",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Aço",
+                    "Fogo",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Frost Breath",
+                    "Ice Beam",
+                    "Ice Shard"
+                ],
+                "pt_br": [
+                    "Hálito de Geada",
+                    "Feixe de Gelo",
+                    "Pedaço de Gelo"
+                ]
+            }
+        },
+        {
+            "id": 145,
+            "num": "145",
+            "name": "Zapdos",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/145.png",
+            "type": {
+                "en": [
+                    "Electric",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Voador"
+                ]
+            },
+            "atk": 253,
+            "sta": 207,
+            "def": 185,
+            "generation": 1,
+            "description": {
+                "en": "Zapdos is a Legendary Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+                "pt_br": "Zapdos é um Pokémon lendário que tem a capacidade de controlar a eletricidade. Geralmente vive em nuvens de tempestade. O Pokémon ganha poder se for atingido por raios."
+            },
+            "weight": 52.6,
+            "height": 1.6,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3987,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Fighting",
+                    "Flying",
+                    "Bug",
+                    "Steel",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Lutador",
+                    "Voador",
+                    "Inseto",
+                    "Aço",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Ice"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Gelo"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Thunder Shock",
+                    "Drill Peck",
+                    "Charge Beam",
+                    "Zap Cannon"
+                ],
+                "pt_br": [
+                    "Choque do Trovão",
+                    "Broca Bicada",
+                    "Feixe de Carga",
+                    "Tiro de Canhão"
+                ]
+            }
+        },
+        {
+            "id": 146,
+            "num": "146",
+            "name": "Moltres",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/146.png",
+            "type": {
+                "en": [
+                    "Electric",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Elétrico",
+                    "Voador"
+                ]
+            },
+            "atk": 251,
+            "sta": 207,
+            "def": 181,
+            "generation": 1,
+            "description": {
+                "en": "Moltres is a Legendary Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+                "pt_br": "Moltres é um Pokémon Lendário que tem a capacidade de controlar o fogo. Se este Pokémon está ferido, diz-se que mergulha o corpo no magma derretido de um vulcão para se queimar e se curar."
+            },
+            "weight": 60.0,
+            "height": 2.0,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3917,
+            "resistant": {
+                "en": [
+                    "Ground",
+                    "Fighting",
+                    "Steel",
+                    "Fire",
+                    "Fairy",
+                    "Bug",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Terrestre",
+                    "Lutador",
+                    "Aço",
+                    "Fogo",
+                    "Fada",
+                    "Inseto",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Rock",
+                    "Water",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Pedra",
+                    "Água",
+                    "Elétrico"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Fire Spin",
+                    "Sky Attack"
+                ],
+                "pt_br": [
+                    "Rotação de Fogo",
+                    "Ataque do Céu"
+                ]
+            }
+        },
+        {
+            "id": 147,
+            "num": "147",
+            "name": "Dratini",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/147.png",
+            "type": {
+                "en": [
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Dragão"
+                ]
+            },
+            "atk": 119,
+            "sta": 121,
+            "def": 91,
+            "generation": 1,
+            "description": {
+                "en": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+                "pt_br": "Dratini continuamente muda e descasca sua pele velha. Isso ocorre porque a energia vital dentro de seu corpo aumenta continuamente para atingir níveis incontroláveis."
+            },
+            "weight": 3.3,
+            "height": 1.8,
+            "pre_evolution": [],
+            "next_evolution": [
+                {
+                    "id": 148,
+                    "num": "148",
+                    "name": "Dragonair",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/148.png"
+                },
+                {
+                    "id": 149,
+                    "num": "149",
+                    "name": "Dragonite",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/149.png"
+                }
+            ],
+            "max_cp": 1136,
+            "resistant": {
+                "en": [
+                    "Fire",
+                    "Water",
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Água",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ice",
+                    "Dragon",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Gelo",
+                    "Dragão",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Dragon Breath",
+                    "Iron Tail",
+                    "Wrap"
+                ],
+                "pt_br": [
+                    "Bafo de Dragão",
+                    "Cauda de Ferro",
+                    "Enrolar"
+                ]
+            }
+        },
+        {
+            "id": 148,
+            "num": "148",
+            "name": "Dragonair",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/148.png",
+            "type": {
+                "en": [
+                    "Dragon"
+                ],
+                "pt_br": [
+                    "Dragão"
+                ]
+            },
+            "atk": 163,
+            "sta": 156,
+            "def": 135,
+            "generation": 1,
+            "description": {
+                "en": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+                "pt_br": "Dragonair armazena uma enorme quantidade de energia dentro de seu corpo. Diz-se que altera as condições meteorológicas em sua vizinhança, descarregando energia dos cristais em seu pescoço e cauda."
+            },
+            "weight": 16.5,
+            "height": 4,
+            "pre_evolution": [
+                {
+                    "id": 147,
+                    "num": "147",
+                    "name": "Dratini",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/147.png"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "id": 149,
+                    "num": "149",
+                    "name": "Dragonite",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/149.png"
+                }
+            ],
+            "max_cp": 2012,
+            "resistant": {
+                "en": [
+                    "Fire",
+                    "Water",
+                    "Grass",
+                    "Electric"
+                ],
+                "pt_br": [
+                    "Fogo",
+                    "Água",
+                    "Planta",
+                    "Elétrico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ice",
+                    "Dragon",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Gelo",
+                    "Dragão",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Dragon Breath",
+                    "Dragon Pulse",
+                    "Iron Tail"
+                ],
+                "pt_br": [
+                    "Bafo de Dragão",
+                    "Pulso de Dragão",
+                    "Cauda de Ferro"
+                ]
+            }
+        },
+        {
+            "id": 149,
+            "num": "149",
+            "name": "Dragonite",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/149.png",
+            "type": {
+                "en": [
+                    "Dragon",
+                    "Flying"
+                ],
+                "pt_br": [
+                    "Dragão",
+                    "Voador"
+                ]
+            },
+            "atk": 263,
+            "sta": 209,
+            "def": 198,
+            "generation": 1,
+            "description": {
+                "en": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+                "pt_br": "Dragonite é capaz de dar a volta ao globo em apenas 16 horas. É um Pokémon de bom coração que conduz navios perdidos e naufragando em uma tempestade para a segurança da terra."
+            },
+            "weight": 210,
+            "height": 2.2,
+            "pre_evolution": [
+                {
+                    "id": 147,
+                    "num": "147",
+                    "name": "Dratini",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/147.png"
+                },
+                {
+                    "id": 148,
+                    "num": "148",
+                    "name": "Dragonair",
+                    "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/148.png"
+                }
+            ],
+            "next_evolution": [],
+            "max_cp": 4287,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Bug",
+                    "Fire",
+                    "Water",
+                    "Ground",
+                    "Grass"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Inseto",
+                    "Fogo",
+                    "Água",
+                    "Terrestre",
+                    "Planta"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Ice",
+                    "Rock",
+                    "Dragon",
+                    "Fairy"
+                ],
+                "pt_br": [
+                    "Gelo",
+                    "Pedra",
+                    "Dragão",
+                    "Fada"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Dragon Tail",
+                    "Draco Meteor",
+                    "Outrage"
+                ],
+                "pt_br": [
+                    "Cauda de Dragão",
+                    "Draco Meteoro",
+                    "Ultraje"
+                ]
+            }
+        },
+        {
+            "id": 150,
+            "num": "150",
+            "name": "Mewtwo",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/150.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 300,
+            "sta": 214,
+            "def": 182,
+            "generation": 1,
+            "description": {
+                "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+                "pt_br": "Mewtwo é um Pokémon criado por manipulação genética. No entanto, embora o poder científico dos humanos tenha criado o corpo deste Pokémon, eles falharam em dotar Mewtwo de um coração compassivo."
+            },
+            "weight": 122,
+            "height": 2,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 4724,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Confusion",
+                    "Psystrike"
+                ],
+                "pt_br": [
+                    "Confusão",
+                    "Ataque Psíquico"
+                ]
+            }
+        },
+        {
+            "id": 151,
+            "num": "151",
+            "name": "Mew",
+            "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/151.png",
+            "type": {
+                "en": [
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Psíquico"
+                ]
+            },
+            "atk": 210,
+            "sta": 225,
+            "def": 210,
+            "generation": 1,
+            "description": {
+                "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+                "pt_br": "Diz-se que Mew possui a composição genética de todos os Pokémon. É capaz de se tornar invisível à vontade, por isso evita totalmente notar, mesmo que se aproxime das pessoas."
+            },
+            "weight": 4,
+            "height": 0.4,
+            "pre_evolution": [],
+            "next_evolution": [],
+            "max_cp": 3691,
+            "resistant": {
+                "en": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "pt_br": [
+                    "Lutador",
+                    "Psíquico"
+                ]
+            },
+            "weaknesses": {
+                "en": [
+                    "Bug",
+                    "Ghost",
+                    "Dark"
+                ],
+                "pt_br": [
+                    "Inseto",
+                    "Fantasma",
+                    "Sombrio"
+                ]
+            },
+            "moves": {
+                "en": [
+                    "Snarl",
+                    "Psychic",
+                    "Volt Switch",
+                    "Solar Beam"
+                ],
+                "pt_br": [
+                    "Rosnar",
+                    "Psíquico",
+                    "Interruptor Volt",
                     "Feixe Solar"
                 ]
             }
