@@ -9627,7 +9627,7 @@
                 "en": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
                 "pt_br": "Quando Magikarp evolui para Gyarados, suas células cerebrais passam por uma transformação estrutural. Diz-se que essa transformação é a responsável pela natureza violenta desse Pokémon."
             },
-            "weight": 235,
+            "weight": 235.0,
             "height": 6.5,
             "pre_evolution": [
                 {
@@ -9703,7 +9703,7 @@
                 "en": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
                 "pt_br": "As pessoas levaram Lapras quase à extinção. À noite, este Pokémon canta melancolicamente enquanto busca o que poucos outros de sua espécie ainda restam."
             },
-            "weight": 220,
+            "weight": 220.0,
             "height": 2.5,
             "pre_evolution": [],
             "next_evolution": [],
@@ -10545,7 +10545,7 @@
                 "en": "Snorlax typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
                 "pt_br": "O dia típico de Snorlax consiste em nada mais do que comer e dormir. É um Pokémon tão dócil que há crianças que usam sua barriga expansiva como um lugar para brincar."
             },
-            "weight": 460,
+            "weight": 460.0,
             "height": 2.1,
             "pre_evolution": [],
             "next_evolution": [],
@@ -10890,7 +10890,7 @@
                 "pt_br": "Dragonair armazena uma enorme quantidade de energia dentro de seu corpo. Diz-se que altera as condições meteorológicas em sua vizinhança, descarregando energia dos cristais em seu pescoço e cauda."
             },
             "weight": 16.5,
-            "height": 4,
+            "height": 4.0,
             "pre_evolution": [
                 {
                     "id": 147,
@@ -10970,7 +10970,7 @@
                 "en": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
                 "pt_br": "Dragonite é capaz de dar a volta ao globo em apenas 16 horas. É um Pokémon de bom coração que conduz navios perdidos e naufragando em uma tempestade para a segurança da terra."
             },
-            "weight": 210,
+            "weight": 210.0,
             "height": 2.2,
             "pre_evolution": [
                 {
@@ -11054,8 +11054,8 @@
                 "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
                 "pt_br": "Mewtwo é um Pokémon criado por manipulação genética. No entanto, embora o poder científico dos humanos tenha criado o corpo deste Pokémon, eles falharam em dotar Mewtwo de um coração compassivo."
             },
-            "weight": 122,
-            "height": 2,
+            "weight": 122.0,
+            "height": 2.0,
             "pre_evolution": [],
             "next_evolution": [],
             "max_cp": 4724,
@@ -11113,7 +11113,7 @@
                 "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
                 "pt_br": "Diz-se que Mew possui a composição genética de todos os Pokémon. É capaz de se tornar invisível à vontade, por isso evita totalmente notar, mesmo que se aproxime das pessoas."
             },
-            "weight": 4,
+            "weight": 4.0,
             "height": 0.4,
             "pre_evolution": [],
             "next_evolution": [],
