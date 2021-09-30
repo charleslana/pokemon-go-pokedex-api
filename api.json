@@ -2135,7 +2135,7 @@
         {
             "id": 29,
             "num": "029",
-            "name": "Nidoran",
+            "name": "Nidoran (F)",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png",
             "type": {
                 "en": [
@@ -2150,8 +2150,8 @@
             "def": 89,
             "generation": 1,
             "description": {
-                "en": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
-                "pt_br": "Nidoran tem farpas que secretam um veneno poderoso. Acredita-se que eles tenham se desenvolvido como proteção para este Pokémon de corpo pequeno. Quando enfurecido, ele libera uma toxina horrível de seu chifre."
+                "en": "Nidoran (F) has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+                "pt_br": "Nidoran (F) tem farpas que secretam um veneno poderoso. Acredita-se que eles tenham se desenvolvido como proteção para este Pokémon de corpo pequeno. Quando enfurecido, ele libera uma toxina horrível de seu chifre."
             },
             "weight": 7.0,
             "height": 0.4,
@@ -2235,7 +2235,7 @@
                 {
                     "id": 29,
                     "num": "029",
-                    "name": "Nidoran",
+                    "name": "Nidoran (F)",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png"
                 }
             ],
@@ -2314,7 +2314,7 @@
                 {
                     "id": 29,
                     "num": "029",
-                    "name": "Nidoran",
+                    "name": "Nidoran (F)",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/029.png"
                 },
                 {
@@ -2374,7 +2374,7 @@
         {
             "id": 32,
             "num": "032",
-            "name": "Nidoran",
+            "name": "Nidoran (M)",
             "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png",
             "type": {
                 "en": [
@@ -2389,8 +2389,8 @@
             "def": 76,
             "generation": 1,
             "description": {
-                "en": "Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
-                "pt_br": "Nidoran desenvolveu músculos para mover as orelhas. Graças a eles, as orelhas podem ser movidas livremente em qualquer direção. Mesmo o menor som não escapa da atenção deste Pokémon."
+                "en": "Nidoran (M) has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+                "pt_br": "Nidoran (M) desenvolveu músculos para mover as orelhas. Graças a eles, as orelhas podem ser movidas livremente em qualquer direção. Mesmo o menor som não escapa da atenção deste Pokémon."
             },
             "weight": 9.0,
             "height": 0.5,
@@ -2474,7 +2474,7 @@
                 {
                     "id": 32,
                     "num": "032",
-                    "name": "Nidoran",
+                    "name": "Nidoran (M)",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png"
                 }
             ],
@@ -2553,7 +2553,7 @@
                 {
                     "id": 32,
                     "num": "032",
-                    "name": "Nidoran",
+                    "name": "Nidoran (M)",
                     "img": "https://raw.githubusercontent.com/charleslana/pokemon-go-pokedex-api/main/images/032.png"
                 },
                 {
